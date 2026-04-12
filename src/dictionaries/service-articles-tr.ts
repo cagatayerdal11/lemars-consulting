@@ -22,7 +22,11 @@ export const serviceArticlesTr: ServiceArticle[] = [
 
 Kurumsal yemek hizmetlerinde HACCP, yalnızca mutfak hijyeni demek değildir. Tedarik zincirinden porsiyonlamaya, sıcaklık kontrolünden alerjen yönetimine kadar uçtan uca bir güvenlik mimarisi gerektirir.
 
-Türkiye'de 5996 sayılı Veteriner Hizmetleri, Bitki Sağlığı, Gıda ve Yem Kanunu kapsamında tüm gıda işletmeleri HACCP prensiplerine uygun çalışmak zorundadır. AB'de ise 852/2004 sayılı Gıda Hijyen Tüzüğü benzer gereklilikleri tanımlar.`,
+Türkiye'de 5996 sayılı Veteriner Hizmetleri, Bitki Sağlığı, Gıda ve Yem Kanunu kapsamında tüm gıda işletmeleri HACCP prensiplerine uygun çalışmak zorundadır. AB'de ise 852/2004 sayılı Gıda Hijyen Tüzüğü benzer gereklilikleri tanımlar.
+
+Kurumsal catering'de kritik sıcaklık eşikleri: sıcak tutma en az 63°C, soğuk muhafaza en fazla 5°C, pişirme iç sıcaklığı en az 75°C (15 saniye), soğutma 63°C'den 5°C'ye 90 dakika içinde. Bu eşiklerin herhangi birinin ihlali, "tehlike bölgesi" (5-63°C) riskini oluşturur ve gıda güvenliğini tehlikeye atar.
+
+DSÖ verilerine göre dünyada yılda 600 milyon kişi kontamine gıdadan hastalanmakta, 420.000 kişi hayatını kaybetmektedir. Kurumsal yemekhanelerdeki tek bir kontaminasyon olayı tüm iş gücünü etkileyebilir; ortalama salgın maliyeti 75.000-100.000 USD'yi aşabilmektedir.`,
     },
     sections: [
       {
@@ -196,6 +200,10 @@ Adli Sicil Kaydı: Sürücülerin belirli suçlardan sabıkasının olmaması ge
 
 Alkol ve Uyuşturucu Kontrolü: Sürücülerin alkol ve uyuşturucu testlerine tabi tutulması.
 
+Sürüş Süresi Limitleri: Günlük azami sürüş süresi 9 saat (haftada iki kez 10 saate uzatılabilir). 4,5 saat kesintisiz sürüş sonrası 45 dakika mola zorunluluğu. Haftalık azami sürüş süresi 56 saat, iki haftalık toplam 90 saat. AB 561/2006 sayılı Tüzük ile uyumlu.
+
+Ehliyet Gereksinimleri: 8+1 koltuk kapasitesinin üzerindeki araçlar için E sınıfı ehliyet zorunludur.
+
 Bu kontrollerin tamamının tedarikçi tarafından yerine getirilip getirilmediği, şirketin denetim sorumluluğundadır. Tedarikçiye güvenmek yetmez; doğrulama mekanizması şarttır.`,
         items: [
           'SRC-2 belgesi geçerlilik kontrolü',
@@ -365,7 +373,11 @@ Son Dakika Rezervasyonları: Plansız seyahatler nedeniyle yüksek fiyatlı bile
 
 Politika İhlalleri: Yetkilendirilenden yüksek sınıf uçuş veya otel kullanımı. Global araştırmalar, şirketlerin ortalama %40'ının seyahat politikası ihlali yaşadığını göstermektedir.
 
-Duty of Care Eksikliği: Seyahat eden çalışanların konumlarının ve risklerinin takip edilmemesi. Kriz durumlarında (doğal afet, salgın, politik istikrarsızlık) çalışanlara ulaşılamaması.`,
+Kanal Sızıntısı (Off-Channel Leakage): Çalışanların TMC yerine doğrudan tüketici sitelerinden rezervasyon yapması. Sektör ortalaması %20-40 oranında sızıntı. Bu kanaldan yapılan rezervasyonlar, yönetilen kanaldan %15-30 daha pahalıdır.
+
+KDV / Vergi İadesi Kayıpları: Uluslararası seyahatlerde önemli miktarda iade alınabilir KDV oluşur (bazı AB ülkelerinde %25'e kadar). Sistematik program olmadan iade oranı %0-20; profesyonel programla %60-85.
+
+Duty of Care Eksikliği: Seyahat eden çalışanların konumlarının ve risklerinin takip edilmemesi. ISO 31030:2021 seyahat risk yönetimi standardı, işverenlerin sorumluluklarını net tanımlar. Kriz durumlarında (doğal afet, salgın, politik istikrarsızlık) çalışanlara ulaşılamaması ciddi yasal sorumluluk doğurur.`,
         highlight: 'Kullanılmayan biletlerin sistematik takibi ve recovery prosedürü, tek başına yıllık seyahat bütçesinden %3-5 tasarruf sağlayabilir.',
       },
     ],
