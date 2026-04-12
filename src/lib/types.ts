@@ -112,4 +112,34 @@ export interface Dictionary {
       services: { name: string; description: string }[]
     }[]
   }
+  serviceArticles: ServiceArticle[]
+}
+
+export interface ServiceArticle {
+  slug: string
+  category: string
+  icon: string
+  title: string
+  subtitle: string
+  heroStats: { value: string; label: string }[]
+  overview: {
+    title: string
+    content: string
+  }
+  sections: {
+    title: string
+    content: string
+    items?: string[]
+    highlight?: string
+  }[]
+  blindSpots: {
+    title: string
+    items: { title: string; description: string }[]
+  }
+  framework: {
+    title: string
+    subtitle: string
+    steps: { number: string; title: string; description: string }[]
+  }
+  ctaMessage: string
 }

@@ -1,4 +1,5 @@
 import type { Dictionary } from '@/lib/types'
+import { serviceArticlesEn } from './service-articles-en'
 
 const en: Dictionary = {
   meta: {
@@ -397,6 +398,7 @@ const en: Dictionary = {
       },
     ],
   },
+  serviceArticles: serviceArticlesEn,
 }
 
 export default en

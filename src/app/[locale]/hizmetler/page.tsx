@@ -27,8 +27,55 @@ export default async function ServicesPage({
         </div>
       </div>
 
+      {/* Deep Dive Articles */}
+      {dict.serviceArticles.length > 0 && (
+        <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 mb-16">
+          <div className="flex items-center gap-3 mb-6">
+            <div className="w-8 h-8 rounded-lg bg-primary/10 flex items-center justify-center text-primary">
+              <Icon name="sparkles" size={16} />
+            </div>
+            <h2 className="text-xl font-bold">
+              {locale === 'tr' ? 'Derinlemesine İçerikler' : 'Deep Dive Articles'}
+            </h2>
+          </div>
+          <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-4">
+            {dict.serviceArticles.map((article) => (
+              <Link
+                key={article.slug}
+                href={`/${locale}/hizmetler/${article.slug}`}
+                className="group p-5 rounded-xl bg-surface border border-border card-hover block"
+              >
+                <div className="flex items-center gap-2 mb-3">
+                  <div className="w-8 h-8 rounded-lg bg-primary/10 flex items-center justify-center text-primary">
+                    <Icon name={article.icon} size={16} />
+                  </div>
+                  <span className="text-xs text-muted-foreground font-medium uppercase tracking-wider">
+                    {article.category}
+                  </span>
+                </div>
+                <h3 className="text-sm font-semibold text-foreground mb-2 group-hover:text-primary transition-colors line-clamp-2">
+                  {article.title}
+                </h3>
+                <p className="text-xs text-muted leading-relaxed line-clamp-2 mb-3">
+                  {article.subtitle}
+                </p>
+                <div className="flex items-center gap-1 text-xs text-primary font-medium">
+                  {locale === 'tr' ? 'Detaylı İncele' : 'Read More'}
+                  <Icon name="arrowRight" size={12} className="group-hover:translate-x-1 transition-transform" />
+                </div>
+              </Link>
+            ))}
+          </div>
+        </div>
+      )}
+
+      <div className="separator mb-16" />
+
       {/* Service categories */}
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+        <h2 className="text-2xl font-bold mb-8">
+          {locale === 'tr' ? 'Tüm Hizmet Kategorileri' : 'All Service Categories'}
+        </h2>
         <div className="space-y-12">
           {dict.servicesPage.categories.map((category, i) => (
             <div

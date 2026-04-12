@@ -1,4 +1,5 @@
 import type { Dictionary } from '@/lib/types'
+import { serviceArticlesTr } from './service-articles-tr'
 
 const tr: Dictionary = {
   meta: {
@@ -397,6 +398,7 @@ const tr: Dictionary = {
       },
     ],
   },
+  serviceArticles: serviceArticlesTr,
 }
 
 export default tr
