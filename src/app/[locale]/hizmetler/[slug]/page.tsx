@@ -1,6 +1,7 @@
 import Link from 'next/link'
 import { getDictionary } from '@/lib/dictionary'
 import { Icon } from '@/components/Icons'
+import { ArticleIllustration } from '@/components/ArticleIllustration'
 import { notFound } from 'next/navigation'
 
 export default async function ServiceDetailPage({
@@ -42,6 +43,12 @@ export default async function ServiceDetailPage({
               <Icon name={article.icon} size={24} />
             </div>
             <span className="tag">{article.category}</span>
+            {article.readingTime && (
+              <span className="flex items-center gap-1 text-xs text-muted-foreground">
+                <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.5" strokeLinecap="round" strokeLinejoin="round"><circle cx="12" cy="12" r="10"/><polyline points="12 6 12 12 16 14"/></svg>
+                {article.readingTime}
+              </span>
+            )}
           </div>
 
           <h1 className="text-3xl sm:text-4xl lg:text-5xl font-bold tracking-tight leading-tight">
@@ -66,6 +73,11 @@ export default async function ServiceDetailPage({
       </div>
 
       <div className="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8">
+        {/* Illustration */}
+        <div className="mb-8 rounded-2xl overflow-hidden border border-border">
+          <ArticleIllustration icon={article.icon} />
+        </div>
+
         {/* Overview */}
         <div className="p-6 lg:p-10 rounded-2xl bg-surface border border-border mb-8">
           <h2 className="text-2xl font-bold mb-4">{article.overview.title}</h2>

@@ -11,6 +11,7 @@ const tr: Dictionary = {
     whyUs: 'Neden Biz',
     model: 'Çalışma Modeli',
     insights: 'İçerikler',
+    news: 'Gündem',
     contact: 'İletişim',
     cta: 'Bize Ulaşın',
     langSwitch: 'EN',

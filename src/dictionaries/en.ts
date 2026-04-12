@@ -11,6 +11,7 @@ const en: Dictionary = {
     whyUs: 'Why Us',
     model: 'Methodology',
     insights: 'Insights',
+    news: 'News',
     contact: 'Contact',
     cta: 'Get in Touch',
     langSwitch: 'TR',

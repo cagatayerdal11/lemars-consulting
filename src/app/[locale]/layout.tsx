@@ -4,6 +4,7 @@ import '../globals.css'
 import { getDictionary, locales } from '@/lib/dictionary'
 import { Navbar } from '@/components/Navbar'
 import { Footer } from '@/components/Footer'
+import { ThemeProvider } from '@/components/ThemeProvider'
 
 const inter = Inter({
   subsets: ['latin', 'latin-ext'],
@@ -42,9 +43,11 @@ export default async function LocaleLayout({
   return (
     <html lang={locale} className={`${inter.variable} antialiased`}>
       <body className="min-h-screen flex flex-col bg-background text-foreground">
-        <Navbar dict={dict} locale={locale} />
-        <main className="flex-1">{children}</main>
-        <Footer dict={dict} locale={locale} />
+        <ThemeProvider>
+          <Navbar dict={dict} locale={locale} />
+          <main className="flex-1">{children}</main>
+          <Footer dict={dict} locale={locale} />
+        </ThemeProvider>
       </body>
     </html>
   )

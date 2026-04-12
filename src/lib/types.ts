@@ -8,6 +8,7 @@ export interface Dictionary {
     whyUs: string
     model: string
     insights: string
+    news: string
     contact: string
     cta: string
     langSwitch: string
@@ -121,6 +122,7 @@ export interface ServiceArticle {
   icon: string
   title: string
   subtitle: string
+  readingTime?: string
   heroStats: { value: string; label: string }[]
   overview: {
     title: string

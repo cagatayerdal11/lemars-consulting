@@ -3,11 +3,13 @@
 import { useState, useEffect } from 'react'
 import Link from 'next/link'
 import { Icon } from './Icons'
+import { useTheme } from './ThemeProvider'
 import type { Dictionary } from '@/lib/types'
 
 export function Navbar({ dict, locale }: { dict: Dictionary; locale: string }) {
   const [scrolled, setScrolled] = useState(false)
   const [mobileOpen, setMobileOpen] = useState(false)
+  const { theme, toggleTheme } = useTheme()
 
   useEffect(() => {
     const handleScroll = () => setScrolled(window.scrollY > 20)
@@ -18,10 +20,10 @@ export function Navbar({ dict, locale }: { dict: Dictionary; locale: string }) {
   const otherLocale = locale === 'tr' ? 'en' : 'tr'
 
   const navItems = [
-    { label: dict.nav.services, href: '#services' },
+    { label: dict.nav.services, href: `/${locale}/hizmetler` },
     { label: dict.nav.whyUs, href: '#why-different' },
-    { label: dict.nav.model, href: '#working-model' },
-    { label: dict.nav.insights, href: '#insights' },
+    { label: dict.nav.insights, href: `/${locale}/icerikler` },
+    { label: dict.nav.news, href: `/${locale}/gundem` },
   ]
 
   return (
@@ -56,6 +58,17 @@ export function Navbar({ dict, locale }: { dict: Dictionary; locale: string }) {
 
           {/* Right side */}
           <div className="hidden lg:flex items-center gap-4">
+            <button
+              onClick={toggleTheme}
+              className="flex items-center justify-center w-9 h-9 rounded-lg text-muted hover:text-foreground hover:bg-surface-light transition-colors"
+              title={theme === 'dark' ? 'Light mode' : 'Dark mode'}
+            >
+              {theme === 'dark' ? (
+                <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.5" strokeLinecap="round" strokeLinejoin="round"><circle cx="12" cy="12" r="5"/><line x1="12" y1="1" x2="12" y2="3"/><line x1="12" y1="21" x2="12" y2="23"/><line x1="4.22" y1="4.22" x2="5.64" y2="5.64"/><line x1="18.36" y1="18.36" x2="19.78" y2="19.78"/><line x1="1" y1="12" x2="3" y2="12"/><line x1="21" y1="12" x2="23" y2="12"/><line x1="4.22" y1="19.78" x2="5.64" y2="18.36"/><line x1="18.36" y1="5.64" x2="19.78" y2="4.22"/></svg>
+              ) : (
+                <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.5" strokeLinecap="round" strokeLinejoin="round"><path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"/></svg>
+              )}
+            </button>
             <Link
               href={`/${otherLocale}`}
               className="flex items-center gap-1.5 text-sm text-muted hover:text-foreground transition-colors px-3 py-1.5 rounded-lg hover:bg-surface-light"
@@ -98,6 +111,17 @@ export function Navbar({ dict, locale }: { dict: Dictionary; locale: string }) {
             ))}
             <div className="separator my-4" />
             <div className="flex items-center gap-4">
+              <button
+                onClick={toggleTheme}
+                className="flex items-center gap-1.5 text-sm text-muted hover:text-foreground"
+              >
+                {theme === 'dark' ? (
+                  <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.5" strokeLinecap="round" strokeLinejoin="round"><circle cx="12" cy="12" r="5"/><line x1="12" y1="1" x2="12" y2="3"/><line x1="12" y1="21" x2="12" y2="23"/><line x1="4.22" y1="4.22" x2="5.64" y2="5.64"/><line x1="18.36" y1="18.36" x2="19.78" y2="19.78"/><line x1="1" y1="12" x2="3" y2="12"/><line x1="21" y1="12" x2="23" y2="12"/><line x1="4.22" y1="19.78" x2="5.64" y2="18.36"/><line x1="18.36" y1="5.64" x2="19.78" y2="4.22"/></svg>
+                ) : (
+                  <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.5" strokeLinecap="round" strokeLinejoin="round"><path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"/></svg>
+                )}
+                {theme === 'dark' ? 'Light' : 'Dark'}
+              </button>
               <Link
                 href={`/${otherLocale}`}
                 className="flex items-center gap-1.5 text-sm text-muted hover:text-foreground"

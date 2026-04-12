@@ -1,0 +1,94 @@
+{
+  "articles": [
+    {
+      "id": "2026-04-12-1",
+      "date": "2026-04-12",
+      "category": "Facility Management",
+      "tr": {
+        "title": "IFMA 2026 Raporu: Hibrit Çalışma Döneminde Tesis Yönetiminin Yeni Rolü",
+        "summary": "IFMA'nın 2026 yıllık raporuna göre, tesis yönetimi profesyonellerinin %78'i rollerinin 'bina yönetimi'nden 'çalışan deneyimi orkestratörlüğü'ne dönüştüğünü belirtiyor.",
+        "content": "IFMA'nın (International Facility Management Association) 2026 yılı küresel tesis yönetimi raporunda çarpıcı bir dönüşüm ortaya konuyor. Araştırmaya katılan FM profesyonellerinin %78'i, görev tanımlarının geleneksel bina bakımı ve operasyondan, çalışan deneyimi tasarımı ve yönetimine doğru köklü bir evrim geçirdiğini ifade ediyor.\n\nRapora göre, hibrit çalışma modelinin kalıcı hale gelmesiyle birlikte ofis doluluk oranları küresel ortalamada %55-65 aralığında seyretmeye devam ediyor. Bu durum, FM ekiplerini alan optimizasyonu, enerji verimliliği ve 'ofise gelme motivasyonu' yaratma konularında yeni stratejiler geliştirmeye zorluyor.\n\nÖzellikle çok lokasyonlu şirketlerde, standart FM hizmetlerinin ötesinde 'hospitality-grade' deneyim sunma beklentisi artıyor. Kafeterya kalitesi, toplantı odası teknolojisi, iç hava kalitesi izleme ve kişiselleştirilmiş çalışma alanları, FM ekiplerinin yeni öncelik listesinin başında yer alıyor.\n\nTürkiye özelinde, organize sanayi bölgelerindeki üretim tesislerinde hibrit çalışma etkisi sınırlı kalsa da, İstanbul, Ankara ve İzmir'deki kurumsal ofislerde benzer trendler gözlemleniyor."
+      },
+      "en": {
+        "title": "IFMA 2026 Report: The New Role of Facility Management in the Hybrid Work Era",
+        "summary": "According to IFMA's 2026 annual report, 78% of FM professionals say their role has transformed from 'building management' to 'employee experience orchestration.'",
+        "content": "IFMA's (International Facility Management Association) 2026 global facility management report reveals a striking transformation. 78% of participating FM professionals indicate their job descriptions have undergone a fundamental evolution from traditional building maintenance and operations toward employee experience design and management.\n\nAccording to the report, with hybrid work becoming permanent, office occupancy rates continue at a global average of 55-65%. This forces FM teams to develop new strategies for space optimization, energy efficiency, and creating 'motivation to come to the office.'\n\nParticularly in multi-location companies, expectations for 'hospitality-grade' experiences beyond standard FM services are growing. Cafeteria quality, meeting room technology, indoor air quality monitoring, and personalized workspaces top FM teams' new priority lists.\n\nIn Turkey specifically, while the hybrid work impact remains limited in organized industrial zone production facilities, similar trends are observed in corporate offices in Istanbul, Ankara, and Izmir."
+      }
+    },
+    {
+      "id": "2026-04-12-2",
+      "date": "2026-04-12",
+      "category": "Corporate Catering & Food Safety",
+      "tr": {
+        "title": "AB Yeni Gıda Güvenliği Yönetmeliği: Kurumsal Yemekhanelere Dijital İzlenebilirlik Zorunluluğu",
+        "summary": "Avrupa Komisyonu'nun 2026 gıda güvenliği güncellemesi, kurumsal catering operasyonlarında dijital sıcaklık izleme ve otomatik kayıt tutma zorunluluğu getiriyor.",
+        "content": "Avrupa Komisyonu, 852/2004 sayılı Gıda Hijyen Tüzüğü'ne yeni bir düzenleme eklemeyi planlıyor. Taslak düzenlemeye göre, 50'den fazla kişiye hizmet veren kurumsal yemekhaneler ve catering operasyonlarında dijital sıcaklık izleme sistemleri zorunlu hale gelecek.\n\nBu düzenleme, geleneksel kağıt bazlı HACCP kayıt tutma sistemlerinin yerini dijital platformlara bırakmasını öngörüyor. IoT sensörleri aracılığıyla soğuk zincir, sıcak tutma ve pişirme sıcaklıklarının gerçek zamanlı izlenmesi ve otomatik kayıt altına alınması hedefleniyor.\n\nTürkiye'nin AB uyum süreci kapsamında benzer düzenlemelerin gündeme gelmesi bekleniyor. Tarım ve Orman Bakanlığı yetkilileri, dijital gıda güvenliği izleme konusunda pilot çalışmaların başladığını doğruluyor.\n\nKurumsal yemek hizmeti tedarikçileri için bu gelişme, teknoloji yatırımı ve personel eğitimi gereksinimlerini artırırken; şirketlerin catering tedarikçi değerlendirmesinde dijital olgunluk kriterini dikkate alması gerekecek."
+      },
+      "en": {
+        "title": "EU New Food Safety Regulation: Digital Traceability Mandate for Corporate Cafeterias",
+        "summary": "The European Commission's 2026 food safety update introduces mandatory digital temperature monitoring and automated record-keeping for corporate catering operations.",
+        "content": "The European Commission is planning to add a new amendment to the Food Hygiene Regulation 852/2004. According to the draft regulation, digital temperature monitoring systems will become mandatory in corporate cafeterias and catering operations serving more than 50 people.\n\nThis regulation envisions traditional paper-based HACCP record-keeping systems being replaced by digital platforms. Real-time monitoring and automated recording of cold chain, hot holding, and cooking temperatures through IoT sensors is targeted.\n\nSimilar regulations are expected to emerge in Turkey as part of its EU alignment process. Ministry of Agriculture and Forestry officials confirm that pilot studies on digital food safety monitoring have begun.\n\nFor corporate food service vendors, this development increases technology investment and staff training requirements, while companies will need to consider digital maturity criteria in their catering vendor evaluations."
+      }
+    },
+    {
+      "id": "2026-04-11-1",
+      "date": "2026-04-11",
+      "category": "Employee Transportation",
+      "tr": {
+        "title": "Elektrikli Araç Dönüşümü Personel Servislerini Dönüştürüyor",
+        "summary": "Avrupa'daki büyük şirketlerin %45'i 2028'e kadar personel servis filolarını tamamen elektrikli araçlara dönüştürmeyi hedefliyor.",
+        "content": "Avrupa Ulaşım ve Çevre Federasyonu'nun (T&E) 2026 raporuna göre, büyük kurumsal işverenlerin %45'i personel servis filolarını 2028'e kadar tamamen elektrikli araçlara dönüştürme hedefi koymuş durumda. Bu dönüşüm, hem ESG taahhütlerinin yerine getirilmesi hem de uzun vadeli operasyonel maliyet avantajı sağlama amacıyla hız kazanıyor.\n\nTürkiye'de TOGG'un ticari araç segmentine girişi ve elektrikli minibüs/midibüs üreticilerinin artan kapasitesi, personel taşımacılığında elektrikli dönüşümü mümkün kılmaya başlıyor. Ancak şarj altyapısı yetersizliği ve başlangıç yatırım maliyeti, dönüşümün önündeki başlıca engeller olarak öne çıkıyor.\n\nElektrikli servis araçlarına geçiş planlayan şirketlerin dikkat etmesi gereken kritik faktörler: güzergah uzunluğuna uygun batarya kapasitesi, tesis şarj altyapısı planlaması, elektrik tedarik anlaşmaları ve sürücü eğitimi. Toplam sahip olma maliyeti (TCO) analizleri, elektrikli araçların 5 yıllık dönemde dizel muadillerinden %20-30 daha ekonomik olduğunu gösteriyor.\n\nİdari işler fonksiyonları, bu dönüşümü yalnızca araç değişimi olarak değil; güzergah optimizasyonu, şarj planlaması ve çalışan iletişimi boyutlarıyla bütünsel bir proje olarak ele almalıdır."
+      },
+      "en": {
+        "title": "Electric Vehicle Transition is Transforming Employee Shuttle Services",
+        "summary": "45% of major European companies aim to fully convert their employee shuttle fleets to electric vehicles by 2028.",
+        "content": "According to the 2026 report by the European Federation for Transport and Environment (T&E), 45% of major corporate employers have set targets to fully convert their employee shuttle fleets to electric vehicles by 2028. This transformation is accelerating both to fulfill ESG commitments and to secure long-term operational cost advantages.\n\nIn Turkey, TOGG's entry into the commercial vehicle segment and increasing capacity of electric minibus/midibus manufacturers are beginning to make electric transition in employee transportation feasible. However, inadequate charging infrastructure and initial investment costs remain the primary barriers.\n\nCritical factors for companies planning the transition to electric shuttle vehicles include: battery capacity suitable for route length, facility charging infrastructure planning, electricity supply agreements, and driver training. Total cost of ownership (TCO) analyses show electric vehicles are 20-30% more economical than diesel equivalents over a 5-year period.\n\nAdministrative affairs functions should approach this transition not merely as a vehicle change but as a holistic project encompassing route optimization, charging planning, and employee communication."
+      }
+    },
+    {
+      "id": "2026-04-11-2",
+      "date": "2026-04-11",
+      "category": "Digital Transformation in Admin Affairs",
+      "tr": {
+        "title": "Yapay Zeka Destekli FM Platformları: İş Emri Yönetiminde Yeni Dönem",
+        "summary": "Gartner'ın son raporuna göre, 2027'ye kadar büyük şirketlerin %60'ı tesis yönetiminde yapay zeka destekli iş emri yönlendirme ve önceliklendirme sistemlerine geçecek.",
+        "content": "Gartner'ın 2026 Tesis Yönetimi Teknoloji Trendleri raporu, yapay zekanın tesis operasyonlarındaki rolünün dramatik biçimde genişleyeceğini öngörüyor. Rapora göre, 2027'ye kadar büyük kurumsal şirketlerin %60'ı iş emri yönetiminde yapay zeka destekli otomatik yönlendirme ve önceliklendirme sistemlerine geçmiş olacak.\n\nBu sistemler, gelen bakım taleplerini kategorize etme, uygun teknisyeni atama, malzeme gereksinimini tahmin etme ve müdahale süresini optimize etme konularında insan müdahalesini minimize ediyor. Erken benimseyen şirketler, ortalama müdahale süresinde %35 iyileşme ve ilk seferde çözüm oranında %20 artış raporluyor.\n\nTürkiye'de ServiceNow ve SAP tabanlı FM çözümleri kullanan şirketler için bu dönüşüm, mevcut platformların AI modülleri ile güçlendirilmesi anlamına geliyor. Ancak veri kalitesi ve süreç standardizasyonu, AI başarısının ön koşulları olarak kritik önem taşıyor.\n\nİdari işler yöneticileri, AI yatırımı öncesinde mevcut iş emri verilerinin kalitesini, kategorizasyon tutarlılığını ve kapatma süresi metriklerinin güvenilirliğini değerlendirmelidir."
+      },
+      "en": {
+        "title": "AI-Powered FM Platforms: New Era in Work Order Management",
+        "summary": "According to Gartner's latest report, by 2027, 60% of large enterprises will adopt AI-powered work order routing and prioritization systems in facility management.",
+        "content": "Gartner's 2026 Facility Management Technology Trends report predicts that AI's role in facility operations will expand dramatically. According to the report, by 2027, 60% of large corporate enterprises will have transitioned to AI-powered automatic routing and prioritization systems for work order management.\n\nThese systems minimize human intervention in categorizing incoming maintenance requests, assigning appropriate technicians, predicting material requirements, and optimizing response times. Early adopters report an average 35% improvement in response time and 20% increase in first-time fix rates.\n\nFor companies in Turkey using ServiceNow and SAP-based FM solutions, this transformation means strengthening existing platforms with AI modules. However, data quality and process standardization remain critical prerequisites for AI success.\n\nAdministrative affairs managers should evaluate their current work order data quality, categorization consistency, and closure time metric reliability before making AI investments."
+      }
+    },
+    {
+      "id": "2026-04-10-1",
+      "date": "2026-04-10",
+      "category": "Corporate Travel Management",
+      "tr": {
+        "title": "NDC Dönüşümü: Kurumsal Seyahat Yönetiminde Yeni Gerçeklik",
+        "summary": "Havayollarının NDC (New Distribution Capability) geçişi hızlanıyor; kurumsal seyahat yöneticileri fiyat karşılaştırma ve politika uyumu konusunda yeni zorluklerla karşılaşıyor.",
+        "content": "Havayolu sektöründe NDC (New Distribution Capability) dönüşümü 2026'da kritik bir eşiğe ulaştı. IATA verilerine göre, küresel havayolu gelirinin %40'ından fazlası artık NDC kanalları üzerinden gerçekleştiriliyor. Bu durum, kurumsal seyahat yöneticileri için hem fırsat hem de zorluk oluşturuyor.\n\nGeleneksel GDS (Global Distribution System) üzerinden yapılan rezervasyonlarda, tüm havayollarının fiyatları tek bir ekranda karşılaştırılabiliyordu. NDC ile birlikte, havayolları fiyatlandırmayı kişiselleştirme ve doğrudan kanal avantajı sunma imkanı kazanırken; TMC'ler (Travel Management Companies) farklı kanallardan gelen içerikleri bütünleştirmekte zorlanıyor.\n\nKurumsal seyahat programları için NDC'nin pratik etkileri şunlar: fiyat şeffaflığında azalma riski, seyahat politikası uyumluluğu kontrolünde zorluk, kullanılmayan bilet yönetiminde karmaşıklık ve raporlama tutarsızlıkları.\n\nŞirketlerin TMC'lerinden NDC hazırlık durumunu sorgulaması, seyahat politikalarını NDC gerçekliğine göre güncellemesi ve raporlama altyapısını çok kanallı içerik yönetimine uyumlu hale getirmesi gerekiyor."
+      },
+      "en": {
+        "title": "NDC Transformation: The New Reality in Corporate Travel Management",
+        "summary": "Airlines' NDC (New Distribution Capability) transition is accelerating; corporate travel managers face new challenges in price comparison and policy compliance.",
+        "content": "The NDC (New Distribution Capability) transformation in the airline industry reached a critical threshold in 2026. According to IATA data, over 40% of global airline revenue is now generated through NDC channels. This creates both opportunities and challenges for corporate travel managers.\n\nWith traditional GDS (Global Distribution System) bookings, all airline fares could be compared on a single screen. With NDC, airlines gain the ability to personalize pricing and offer direct channel advantages, while TMCs (Travel Management Companies) struggle to integrate content from different channels.\n\nThe practical implications of NDC for corporate travel programs include: risk of reduced price transparency, difficulty in travel policy compliance control, complexity in unused ticket management, and reporting inconsistencies.\n\nCompanies need to query their TMCs about NDC readiness, update travel policies to reflect NDC realities, and align their reporting infrastructure with multi-channel content management."
+      }
+    },
+    {
+      "id": "2026-04-10-2",
+      "date": "2026-04-10",
+      "category": "Vendor Management & Procurement",
+      "tr": {
+        "title": "ESG Kriterleri Tedarikçi Seçim Süreçlerini Yeniden Şekillendiriyor",
+        "summary": "PwC araştırmasına göre, büyük şirketlerin %72'si FM ve destek hizmetleri tedarikçi değerlendirmesinde ESG kriterlerini zorunlu parametre olarak eklemiş durumda.",
+        "content": "PwC'nin 2026 Global Procurement Survey sonuçları, sürdürülebilirlik kriterlerinin tedarikçi seçim ve değerlendirme süreçlerini kökten dönüştürdüğünü ortaya koyuyor. Araştırmaya göre, büyük kurumsal şirketlerin %72'si artık tesis yönetimi ve destek hizmetleri tedarikçilerini değerlendirirken ESG (Environmental, Social, Governance) kriterlerini zorunlu parametre olarak kullanıyor.\n\nBu dönüşüm özellikle temizlik, catering, güvenlik ve peyzaj gibi emek-yoğun hizmet alanlarında belirginleşiyor. Çalışan hakları, adil ücret politikası, iş güvenliği standartları ve çevresel performans, fiyat ve kalite ile birlikte tedarikçi skor kartlarının ayrılmaz parçası haline geliyor.\n\nAB CSRD (Corporate Sustainability Reporting Directive) yükümlülükleri nedeniyle, şirketler tedarik zincirlerindeki sosyal ve çevresel performansı raporlamak zorunda. Bu durum, idari işler fonksiyonlarının tedarikçi yönetim süreçlerini ESG perspektifinden yeniden tasarlamasını gerektiriyor.\n\nTürkiye'de özellikle çok uluslu şirketlerin yerel operasyonlarında ESG bazlı tedarikçi değerlendirmesi hızla yaygınlaşıyor. Yerli tedarikçilerin bu gerekliliklere hazırlıksız olması, hem risk hem de farklılaşma fırsatı yaratıyor."
+      },
+      "en": {
+        "title": "ESG Criteria are Reshaping Vendor Selection Processes",
+        "summary": "According to PwC research, 72% of large companies have added ESG criteria as mandatory parameters in FM and support services vendor evaluation.",
+        "content": "PwC's 2026 Global Procurement Survey results reveal that sustainability criteria are fundamentally transforming vendor selection and evaluation processes. According to the research, 72% of large corporate enterprises now use ESG (Environmental, Social, Governance) criteria as mandatory parameters when evaluating facility management and support service vendors.\n\nThis transformation is particularly evident in labor-intensive service areas such as cleaning, catering, security, and landscaping. Employee rights, fair wage policies, occupational safety standards, and environmental performance are becoming integral parts of vendor scorecards alongside price and quality.\n\nDue to EU CSRD (Corporate Sustainability Reporting Directive) obligations, companies are required to report social and environmental performance across their supply chains. This requires administrative affairs functions to redesign their vendor management processes from an ESG perspective.\n\nIn Turkey, ESG-based vendor evaluation is rapidly expanding, particularly in local operations of multinational companies. Local vendors' unpreparedness for these requirements creates both risk and differentiation opportunity."
+      }
+    }
+  ]
+}
