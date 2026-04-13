@@ -1,11 +1,46 @@
 {
   "articles": [
     {
+      "poolId": "fm-01",
+      "category": "Facility Management",
+      "tr": {
+        "title": "ISO 41001 Sertifikasyonu Alan Şirket Sayısı 2026'da %40 Arttı",
+        "summary": "Uluslararası Tesis Yönetimi standardı ISO 41001 sertifikasyonu alan şirket sayısı küresel bazda %40 artış gösterdi. Bu trend, FM'in operasyonel bir fonksiyondan stratejik bir yönetim disiplinine dönüştüğünü kanıtlıyor.",
+        "content": "ISO 41001:2018 standardı, tesis yönetimi süreçlerinin sistematik yönetimi için uluslararası çerçeveyi tanımlıyor. 2026 yılında sertifika alan şirket sayısındaki %40'lık artış, özellikle çok lokasyonlu kurumsal yapılarda FM kalitesinin standardize edilmesi ihtiyacının arttığını gösteriyor.\n\nSertifikasyon sürecinde şirketler, hizmet katalogu oluşturma, SLA tanımlama, performans ölçüm sistemi kurma ve sürekli iyileştirme döngüsü tasarlama gibi yapısal adımları atmak zorunda kalıyor. Bu süreç, FM operasyonlarının olgunluk seviyesini doğrudan yükseltiyor.\n\nTürkiye'de henüz ISO 41001 sertifikasyonu alan şirket sayısı sınırlı olsa da, çok uluslu şirketlerin yerel operasyonlarında bu standardın benimsenmesi hızlanıyor. Özellikle üretim tesisleri ve büyük kurumsal ofislerde FM kalite standartlarının uluslararası düzeye çıkarılması gündemde."
+      },
+      "en": {
+        "title": "Companies Achieving ISO 41001 Certification Increased 40% in 2026",
+        "summary": "The number of companies achieving ISO 41001 facility management certification grew 40% globally, proving FM's transformation from an operational function to a strategic management discipline.",
+        "content": "ISO 41001:2018 defines the international framework for systematic facility management process management. The 40% increase in certified companies in 2026 indicates growing demand for FM quality standardization, particularly in multi-location corporate structures.\n\nDuring the certification process, companies must establish service catalogs, define SLAs, build performance measurement systems, and design continuous improvement cycles. This process directly elevates the maturity level of FM operations.\n\nWhile the number of ISO 41001 certified companies in Turkey remains limited, adoption is accelerating in local operations of multinational companies. Raising FM quality standards to international levels is particularly on the agenda for manufacturing facilities and large corporate offices."
+      },
+      "id": "2026-04-13-1",
+      "date": "2026-04-13"
+    },
+    {
+      "poolId": "catering-02",
+      "category": "Corporate Catering & Food Safety",
+      "tr": {
+        "title": "Yapay Zeka ile Yemek İsrafı Azaltma: Pilot Projeler %30 Tasarruf Sağlıyor",
+        "summary": "Kurumsal yemekhanelerde AI destekli talep tahmini sistemleri, yemek israfını %30'a kadar azaltıyor. Bu teknoloji, hem maliyet hem de sürdürülebilirlik hedeflerine katkı sağlıyor.",
+        "content": "Kurumsal catering sektöründe yapay zeka destekli talep tahmini sistemleri hızla yaygınlaşıyor. Winnow, Leanpath ve Kitro gibi platformlar, yemekhanelerdeki üretim miktarını geçmiş veriler, takvim verileri ve hava durumu gibi değişkenlere göre optimize ediyor.\n\nPilot projelerden elde edilen sonuçlar etkileyici: yemek israfında ortalama %25-30 azalma, kişi başı yemek maliyetinde %8-12 düşüş ve karbon ayak izinde ölçülebilir iyileşme. Bu kazanımlar, teknoloji yatırımının 6-12 ay içinde geri dönüş sağladığını gösteriyor.\n\nTürkiye'deki büyük kurumsal yemek tedarikçileri de bu teknolojilere yatırım yapmaya başlıyor. Ancak başarılı implementasyon için doğru veri altyapısı, mutfak ekibinin dijital okuryazarlığı ve tedarikçi sözleşmelerinde teknoloji bileşeninin yer alması gerekiyor."
+      },
+      "en": {
+        "title": "AI-Powered Food Waste Reduction: Pilot Projects Achieving 30% Savings",
+        "summary": "AI-powered demand forecasting systems in corporate cafeterias are reducing food waste by up to 30%, contributing to both cost and sustainability targets.",
+        "content": "AI-powered demand forecasting systems are rapidly spreading in the corporate catering sector. Platforms like Winnow, Leanpath, and Kitro optimize production quantities in cafeterias based on historical data, calendar data, and variables like weather.\n\nResults from pilot projects are impressive: average 25-30% reduction in food waste, 8-12% decrease in per-person meal costs, and measurable improvement in carbon footprint. These gains show the technology investment pays back within 6-12 months.\n\nLarge corporate catering vendors in Turkey are also beginning to invest in these technologies. However, successful implementation requires proper data infrastructure, kitchen team digital literacy, and technology components in vendor contracts."
+      },
+      "id": "2026-04-13-2",
+      "date": "2026-04-13"
+    },
+    {
       "id": "2026-04-12-1",
       "date": "2026-04-12",
       "category": "Facility Management",
       "illustration": "building",
-      "readingTime": { "tr": "4 dk", "en": "4 min" },
+      "readingTime": {
+        "tr": "4 dk",
+        "en": "4 min"
+      },
       "aiSummary": {
         "tr": "IFMA'nın 2026 raporuna göre FM profesyonellerinin %78'i rollerinin çalışan deneyimi yönetimine dönüştüğünü belirtiyor. Hibrit çalışma ile ofis doluluk oranları %55-65'te seyrederken, FM ekipleri alan optimizasyonu ve deneyim tasarımına odaklanıyor.",
         "en": "IFMA's 2026 report shows 78% of FM professionals say their role has shifted to employee experience management. With hybrid work keeping office occupancy at 55-65%, FM teams are focusing on space optimization and experience design."
@@ -26,7 +61,10 @@
       "date": "2026-04-12",
       "category": "Corporate Catering & Food Safety",
       "illustration": "utensils",
-      "readingTime": { "tr": "4 dk", "en": "4 min" },
+      "readingTime": {
+        "tr": "4 dk",
+        "en": "4 min"
+      },
       "aiSummary": {
         "tr": "AB, kurumsal yemekhanelerde dijital sıcaklık izleme ve otomatik kayıt tutma zorunluluğu getiriyor. Kağıt bazlı HACCP sistemlerinin yerini IoT sensörleri alacak, Türkiye'de de benzer düzenlemeler bekleniyor.",
         "en": "The EU is introducing mandatory digital temperature monitoring and automated record-keeping for corporate cafeterias. IoT sensors will replace paper-based HACCP systems, with similar regulations expected in Turkey."
@@ -47,7 +85,10 @@
       "date": "2026-04-11",
       "category": "Employee Transportation",
       "illustration": "truck",
-      "readingTime": { "tr": "5 dk", "en": "5 min" },
+      "readingTime": {
+        "tr": "5 dk",
+        "en": "5 min"
+      },
       "aiSummary": {
         "tr": "Avrupa'daki büyük şirketlerin %45'i personel servis filolarını 2028'e kadar elektrikli araçlara dönüştürmeyi hedefliyor. TCO analizleri, elektrikli araçların 5 yılda dizel muadillerinden %20-30 daha ekonomik olduğunu gösteriyor.",
         "en": "45% of major European companies aim to convert shuttle fleets to electric vehicles by 2028. TCO analyses show EVs are 20-30% more economical than diesel equivalents over 5 years."
@@ -68,7 +109,10 @@
       "date": "2026-04-11",
       "category": "Digital Transformation in Admin Affairs",
       "illustration": "chart",
-      "readingTime": { "tr": "4 dk", "en": "4 min" },
+      "readingTime": {
+        "tr": "4 dk",
+        "en": "4 min"
+      },
       "aiSummary": {
         "tr": "Gartner 2027'ye kadar büyük şirketlerin %60'ının FM'de yapay zeka destekli iş emri yönetimine geçeceğini öngörüyor. Erken benimseyenler müdahale süresinde %35, ilk seferde çözüm oranında %20 iyileşme raporluyor.",
         "en": "Gartner predicts 60% of large enterprises will adopt AI-powered work order management in FM by 2027. Early adopters report 35% improvement in response time and 20% increase in first-time fix rates."
@@ -89,7 +133,10 @@
       "date": "2026-04-10",
       "category": "Corporate Travel Management",
       "illustration": "plane",
-      "readingTime": { "tr": "5 dk", "en": "5 min" },
+      "readingTime": {
+        "tr": "5 dk",
+        "en": "5 min"
+      },
       "aiSummary": {
         "tr": "NDC dönüşümü ile havayolu gelirinin %40'ından fazlası artık yeni dağıtım kanalları üzerinden gerçekleşiyor. Kurumsal seyahat yöneticileri fiyat şeffaflığı, politika uyumu ve raporlama tutarsızlıkları ile mücadele ediyor.",
         "en": "With NDC transformation, over 40% of airline revenue now flows through new distribution channels. Corporate travel managers face challenges with price transparency, policy compliance, and reporting inconsistencies."
@@ -110,7 +157,10 @@
       "date": "2026-04-10",
       "category": "Vendor Management & Procurement",
       "illustration": "shield",
-      "readingTime": { "tr": "4 dk", "en": "4 min" },
+      "readingTime": {
+        "tr": "4 dk",
+        "en": "4 min"
+      },
       "aiSummary": {
         "tr": "PwC araştırmasına göre büyük şirketlerin %72'si FM tedarikçi değerlendirmesinde ESG kriterlerini zorunlu parametre olarak ekledi. AB CSRD yükümlülükleri bu dönüşümü hızlandırıyor.",
         "en": "According to PwC, 72% of large companies now use ESG criteria as mandatory parameters in FM vendor evaluation. EU CSRD obligations are accelerating this transformation."
