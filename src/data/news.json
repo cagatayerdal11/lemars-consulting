@@ -1,6 +1,38 @@
 {
   "articles": [
     {
+      "poolId": "transport-03",
+      "category": "Employee Transportation",
+      "tr": {
+        "title": "Avrupa'da Personel Servisi Güvenlik Standartları Sıkılaştırılıyor",
+        "summary": "AB Komisyonu, personel taşımacılığında gelişmiş sürücü destek sistemleri (ADAS) zorunluluğunu genişletiyor. Yeni araçlarda şerit takip ve otomatik acil fren sistemi zorunlu hale geliyor.",
+        "content": "AB 2019/2144 sayılı Genel Güvenlik Tüzüğü kapsamında, 2026'dan itibaren tüm yeni ticari yolcu taşıma araçlarında gelişmiş sürücü destek sistemleri (ADAS) zorunlu hale geliyor. Bu sistemler arasında akıllı hız asistanı (ISA), gelişmiş acil fren sistemi (AEB), sürücü yorgunluk tespiti ve şerit takip asistanı yer alıyor.\n\nBu düzenleme, kurumsal personel servis filolarını doğrudan etkiliyor. Yeni araç alımlarında ADAS donanımı standart olacak; mevcut filoların dönüşüm planlaması gerekecek. Araç yaş limitleri ve teknik gereklilikler de buna paralel güncelleniyor.\n\nTürkiye'de AB uyum sürecinde benzer düzenlemelerin gündeme gelmesi bekleniyor. Personel servis tedarikçilerinin filo yenileme planlarında bu gereklilikleri dikkate alması, uzun vadeli maliyet planlaması açısından kritik önem taşıyor."
+      },
+      "en": {
+        "title": "Europe Tightening Employee Shuttle Safety Standards",
+        "summary": "The EU Commission is expanding mandatory Advanced Driver Assistance Systems (ADAS) requirements for employee transportation. Lane keeping and automatic emergency braking become mandatory in new vehicles.",
+        "content": "Under EU General Safety Regulation 2019/2144, Advanced Driver Assistance Systems (ADAS) become mandatory for all new commercial passenger transport vehicles from 2026. These include Intelligent Speed Assistance (ISA), Advanced Emergency Braking (AEB), driver drowsiness detection, and lane keeping assist.\n\nThis regulation directly impacts corporate employee shuttle fleets. ADAS equipment will be standard in new vehicle purchases; existing fleets will need transformation planning. Vehicle age limits and technical requirements are being updated accordingly.\n\nSimilar regulations are expected in Turkey as part of EU alignment. Employee shuttle vendors considering these requirements in fleet renewal plans is critically important for long-term cost planning."
+      },
+      "id": "2026-04-14-1",
+      "date": "2026-04-14"
+    },
+    {
+      "poolId": "travel-04",
+      "category": "Corporate Travel Management",
+      "tr": {
+        "title": "Sürdürülebilir Havacılık Yakıtı (SAF) Programları Kurumsal Seyahatte Yaygınlaşıyor",
+        "summary": "Büyük havayollarının SAF programlarına katılım %300 arttı. Kurumsal seyahat yöneticileri, karbon emisyon azaltımı için SAF sertifikalarını değerlendirmeye başlıyor.",
+        "content": "Sürdürülebilir Havacılık Yakıtı (SAF) programları, kurumsal seyahatte karbon ayak izini azaltmanın en somut aracı olarak öne çıkıyor. 2026 yılında büyük havayollarının SAF programlarına kurumsal katılım %300'ün üzerinde artış gösterdi.\n\nSAF, geleneksel jet yakıtına kıyasla yaşam döngüsü emisyonlarını %80'e kadar azaltabiliyor. Kurumsal müşteriler, havayollarından SAF sertifikaları satın alarak seyahat emisyonlarını telafi edebiliyor. Bu mekanizma, SBTi (Science Based Targets initiative) hedeflerine ulaşmak için kritik bir araç.\n\nTürkiye'de THY'nin SAF programı gelişmeleri ve havalimanlarında SAF altyapısı yatırımları takip edilmeli. Kurumsal seyahat politikalarına SAF tercihi ve karbon telafi mekanizmalarının eklenmesi, ESG raporlamasına doğrudan katkı sağlıyor."
+      },
+      "en": {
+        "title": "Sustainable Aviation Fuel (SAF) Programs Expanding in Corporate Travel",
+        "summary": "Corporate participation in major airlines' SAF programs increased 300%. Travel managers are evaluating SAF certificates for carbon emission reduction.",
+        "content": "Sustainable Aviation Fuel (SAF) programs are emerging as the most tangible tool for reducing carbon footprint in corporate travel. In 2026, corporate participation in major airlines' SAF programs increased by over 300%.\n\nSAF can reduce lifecycle emissions by up to 80% compared to conventional jet fuel. Corporate customers can offset travel emissions by purchasing SAF certificates from airlines. This mechanism is a critical tool for achieving SBTi (Science Based Targets initiative) goals.\n\nDevelopments in Turkish Airlines' SAF program and SAF infrastructure investments at airports should be monitored. Adding SAF preference and carbon offsetting mechanisms to corporate travel policies directly contributes to ESG reporting."
+      },
+      "id": "2026-04-14-2",
+      "date": "2026-04-14"
+    },
+    {
       "poolId": "fm-01",
       "category": "Facility Management",
       "tr": {
