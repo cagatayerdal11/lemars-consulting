@@ -1,6 +1,38 @@
 {
   "articles": [
     {
+      "poolId": "vendor-05",
+      "category": "Vendor Management & Procurement",
+      "tr": {
+        "title": "Outcome-Based Sözleşmeler FM Tedarikçi İlişkilerini Dönüştürüyor",
+        "summary": "Geleneksel girdi bazlı sözleşmelerden çıktı bazlı performans sözleşmelerine geçiş hızlanıyor. Bu model, tedarikçiyi maliyet yerine sonuç odaklı yönetmeyi mümkün kılıyor.",
+        "content": "Tesis yönetimi ve destek hizmetleri alanında outcome-based (çıktı bazlı) sözleşme modeli hızla yaygınlaşıyor. Geleneksel modelde tedarikçi belirli girdi taahhüdü verir (haftada 5 gün temizlik, 2 teknisyen atanması gibi). Çıktı bazlı modelde ise sonuç taahhüdü esas alınır (tesis temizlik skoru %95 üzeri, iş emri tamamlama süresi 4 saat altı gibi).\n\nBu dönüşüm, tedarikçi-müşteri ilişkisini temelden değiştiriyor. Tedarikçi, kaynakları nasıl kullanacağı konusunda esneklik kazanırken; müşteri, çıktı kalitesini ölçme ve yönetme kapasitesi geliştirmek zorunda kalıyor.\n\nTürkiye'de henüz yaygın olmasa da, çok uluslu şirketlerin yerel operasyonlarında outcome-based modeller pilot olarak uygulanmaya başlıyor. Bu modelin başarısı, güçlü KPI altyapısı ve düzenli performans ölçüm disiplinine bağlı."
+      },
+      "en": {
+        "title": "Outcome-Based Contracts Transforming FM Vendor Relationships",
+        "summary": "The shift from traditional input-based contracts to outcome-based performance contracts is accelerating, enabling result-focused vendor management instead of cost-focused.",
+        "content": "Outcome-based contracting is rapidly spreading in facility management and support services. In the traditional model, vendors commit to specific inputs (cleaning 5 days per week, assigning 2 technicians). In the outcome-based model, result commitments are the basis (facility cleanliness score above 95%, work order completion time under 4 hours).\n\nThis transformation fundamentally changes the vendor-client relationship. The vendor gains flexibility in resource allocation while the client must develop capacity to measure and manage output quality.\n\nWhile not yet widespread in Turkey, outcome-based models are being piloted in local operations of multinational companies. The success of this model depends on strong KPI infrastructure and disciplined regular performance measurement."
+      },
+      "id": "2026-04-15-1",
+      "date": "2026-04-15"
+    },
+    {
+      "poolId": "digital-06",
+      "category": "Digital Transformation in Admin Affairs",
+      "tr": {
+        "title": "Microsoft Copilot FM Modülü: İdari İşlerde Yapay Zeka Asistanı",
+        "summary": "Microsoft'un Copilot platformunun FM ve idari işler modülü, iş emri yönetimi, tedarikçi iletişimi ve raporlama süreçlerinde yapay zeka asistanlığı sunuyor.",
+        "content": "Microsoft'un Copilot platformu, tesis yönetimi ve idari işler süreçlerine özel modüllerle genişliyor. Yeni FM modülü, mevcut Microsoft 365 altyapısı üzerinde çalışarak iş emri yönetimi, tedarikçi iletişimi ve yönetsel raporlama süreçlerinde AI asistanlığı sağlıyor.\n\nÖne çıkan özellikler: doğal dil ile iş emri oluşturma, e-posta ve Teams mesajlarından otomatik görev çıkarma, Power BI raporlarının sesli sorgulanması ve SharePoint dokümanlarından politika sorusu yanıtlama.\n\nBu gelişme, idari işler fonksiyonlarının dijitalleşme yolculuğunda kritik bir ivme sağlıyor. Mevcut Microsoft 365 lisanslarıyla entegre çalışması, ek yazılım yatırımı gerektirmeden AI kapasitesi kazandırıyor."
+      },
+      "en": {
+        "title": "Microsoft Copilot FM Module: AI Assistant for Administrative Affairs",
+        "summary": "Microsoft's Copilot platform FM and administrative affairs module offers AI assistance in work order management, vendor communication, and reporting processes.",
+        "content": "Microsoft's Copilot platform is expanding with modules specific to facility management and administrative affairs processes. The new FM module runs on existing Microsoft 365 infrastructure, providing AI assistance in work order management, vendor communication, and management reporting.\n\nKey features include: natural language work order creation, automatic task extraction from emails and Teams messages, voice querying of Power BI reports, and policy question answering from SharePoint documents.\n\nThis development provides critical momentum in the digitalization journey of administrative affairs functions. Integration with existing Microsoft 365 licenses enables AI capability without additional software investment."
+      },
+      "id": "2026-04-15-2",
+      "date": "2026-04-15"
+    },
+    {
       "poolId": "transport-03",
       "category": "Employee Transportation",
       "tr": {
