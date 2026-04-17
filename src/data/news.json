@@ -1,6 +1,38 @@
 {
   "articles": [
     {
+      "poolId": "transport-09",
+      "category": "Employee Transportation",
+      "tr": {
+        "title": "MaaS Platformları Kurumsal Çalışan Ulaşımını Yeniden Tanımlıyor",
+        "summary": "Mobility as a Service (MaaS) platformları, servis, taksi, scooter ve toplu taşıma seçeneklerini tek bir platformda birleştirerek çalışan ulaşım deneyimini dönüştürüyor.",
+        "content": "Mobility as a Service (MaaS) kavramı, kurumsal çalışan ulaşımında paradigma değişikliği yaratıyor. Geleneksel model (tek tip servis aracı + taksi) yerine; servis, paylaşımlı araç, e-scooter, bisiklet ve toplu taşıma seçeneklerini tek bir platformda birleştiren entegre ulaşım çözümleri yaygınlaşıyor.\n\nMaaS platformları, çalışanlara rota ve zamana göre en uygun ulaşım modunu öneriyor, tüm modlar için tek bütçe yönetimi sağlıyor ve şirketlere detaylı ulaşım verisi sunuyor. Bu veri, güzergah optimizasyonu, maliyet kontrolü ve sürdürülebilirlik raporlaması için kritik.\n\nTürkiye'de Moovit, BiTaksi ve belediye toplu taşıma entegrasyonları bu yönde adımlar atıyor. İdari işler fonksiyonları, tek tedarikçi servis modelinden çok modlu ulaşım yönetimine geçiş planlaması yapmalı."
+      },
+      "en": {
+        "title": "MaaS Platforms Redefining Corporate Employee Transportation",
+        "summary": "Mobility as a Service (MaaS) platforms are transforming employee commuting by combining shuttle, taxi, scooter, and public transit options on a single platform.",
+        "content": "The Mobility as a Service (MaaS) concept is creating a paradigm shift in corporate employee transportation. Instead of the traditional model (single-type shuttle + taxi), integrated transportation solutions combining shuttle, shared vehicles, e-scooters, bicycles, and public transit on a single platform are spreading.\n\nMaaS platforms recommend the most suitable transportation mode based on route and time, provide single budget management for all modes, and offer companies detailed transportation data. This data is critical for route optimization, cost control, and sustainability reporting.\n\nIn Turkey, Moovit, BiTaksi, and municipal transit integrations are taking steps in this direction. Administrative affairs functions should plan transitions from single-vendor shuttle models to multi-modal transportation management."
+      },
+      "id": "2026-04-17-1",
+      "date": "2026-04-17"
+    },
+    {
+      "poolId": "travel-10",
+      "category": "Corporate Travel Management",
+      "tr": {
+        "title": "Sanal Kart Teknolojisi Seyahat Ödemelerini Dönüştürüyor",
+        "summary": "Kurumsal seyahat ödemelerinde sanal kart (virtual card) kullanımı %150 arttı. Bu teknoloji, maliyet kontrolü, güvenlik ve mutabakat süreçlerini radikal biçimde iyileştiriyor.",
+        "content": "Kurumsal seyahat ödemelerinde sanal kart teknolojisi hızla benimsenıyor. Her rezervasyon için benzersiz, tek kullanımlık ve limit belirlenmiş sanal kart numarası üretilmesi; hem güvenlik hem kontrol hem de muhasebe süreçlerinde devrim yaratıyor.\n\nSanal kart avantajları: her işlem için önceden belirlenmiş harcama limiti, otomatik mutabakat, sahtecilik riskinin minimize edilmesi, tedarikçi bazlı ödeme takibi ve gerçek zamanlı harcama görünürlüğü. Erken benimseyenler, mutabakat süresinde %70 kısalma ve ödeme hatalarında %90 azalma raporluyor.\n\nTürkiye'de kurumsal kredi kartı programlarının sanal kart bileşenleri gelişiyor. TMC'lerle entegre sanal kart çözümleri, seyahat politikası uyumluluğunun otomatik kontrolünü mümkün kılıyor."
+      },
+      "en": {
+        "title": "Virtual Card Technology Transforming Travel Payments",
+        "summary": "Virtual card usage in corporate travel payments increased 150%. This technology radically improves cost control, security, and reconciliation processes.",
+        "content": "Virtual card technology is being rapidly adopted in corporate travel payments. Generating unique, single-use virtual card numbers with pre-set limits for each reservation creates a revolution in security, control, and accounting processes.\n\nVirtual card advantages include: pre-set spending limits per transaction, automatic reconciliation, minimized fraud risk, vendor-level payment tracking, and real-time spend visibility. Early adopters report 70% reduction in reconciliation time and 90% reduction in payment errors.\n\nIn Turkey, virtual card components of corporate credit card programs are developing. Virtual card solutions integrated with TMCs enable automatic control of travel policy compliance."
+      },
+      "id": "2026-04-17-2",
+      "date": "2026-04-17"
+    },
+    {
       "poolId": "fm-07",
       "category": "Facility Management",
       "tr": {
