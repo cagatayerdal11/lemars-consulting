@@ -1,6 +1,38 @@
 {
   "articles": [
     {
+      "poolId": "vendor-11",
+      "category": "Vendor Management & Procurement",
+      "tr": {
+        "title": "Tedarikçi Çeşitliliği ve Dahil Etme Programları Zorunlu Hale Geliyor",
+        "summary": "AB ve ABD'deki büyük şirketlerin %65'i artık tedarikçi seçiminde çeşitlilik (diversity) kriterlerini zorunlu parametre olarak uyguluyor. Bu trend idari hizmetler tedarikçilerini de etkiliyor.",
+        "content": "Tedarikçi çeşitliliği (supplier diversity) programları, kurumsal satın alma süreçlerinin ayrılmaz parçası haline geliyor. Kadın girişimcilerin, azınlık gruplarının ve KOBİ'lerin tedarik zincirine dahil edilmesi, hem sosyal sorumluluk hem de inovasyon kaynağı olarak değerlendiriliyor.\n\nÖzellikle temizlik, güvenlik, peyzaj ve catering gibi emek-yoğun idari hizmetlerde yerel KOBİ'lerin değerlendirilmesi, hem ekonomik katkı hem de tedarikçi risk dağılımı açısından avantaj sağlıyor. Büyük entegre tedarikçilere bağımlılığın azaltılması, pazarlık gücünü koruyor.\n\nTürkiye'de bu kavram henüz erken aşamada olsa da, çok uluslu şirketlerin global satın alma politikalarının yerel operasyonlara uygulanmasıyla birlikte gündemdeki yerini alıyor."
+      },
+      "en": {
+        "title": "Supplier Diversity and Inclusion Programs Becoming Mandatory",
+        "summary": "65% of large companies in the EU and US now apply diversity criteria as mandatory parameters in vendor selection, impacting administrative services vendors.",
+        "content": "Supplier diversity programs are becoming an integral part of corporate procurement processes. Including women entrepreneurs, minority groups, and SMEs in the supply chain is valued both as social responsibility and innovation source.\n\nParticularly in labor-intensive administrative services like cleaning, security, landscaping, and catering, evaluating local SMEs provides advantages in both economic contribution and vendor risk distribution. Reducing dependency on large integrated vendors preserves bargaining power.\n\nWhile this concept is still early-stage in Turkey, it's gaining agenda presence as multinational companies apply their global procurement policies to local operations."
+      },
+      "id": "2026-04-18-1",
+      "date": "2026-04-18"
+    },
+    {
+      "poolId": "digital-12",
+      "category": "Digital Transformation in Admin Affairs",
+      "tr": {
+        "title": "Low-Code/No-Code Platformlar İdari İşlerde Vatandaş Geliştiriciliği Yaygınlaştırıyor",
+        "summary": "Power Apps, Mendix ve OutSystems gibi low-code platformlar, idari işler ekiplerinin kendi dijital çözümlerini geliştirmesini mümkün kılıyor. IT bağımlılığı azalıyor.",
+        "content": "Low-code/no-code platformları, idari işler fonksiyonlarında dijital dönüşümün demokratikleşmesini sağlıyor. Microsoft Power Apps, Google AppSheet ve benzeri araçlar sayesinde, teknik bilgisi sınırlı idari işler profesyonelleri bile kendi iş süreçleri için dijital çözümler geliştirebiliyor.\n\nÖrnek uygulamalar: mobil saha denetim uygulaması, tedarikçi performans takip sistemi, araç kullanım talep formu, çalışan memnuniyeti anket platformu ve hizmet talep yönetim sistemi. Bu uygulamalar, geleneksel yazılım geliştirme sürecinin aylar süren zaman çizelgesini haftalara indiriyor.\n\nAncak 'vatandaş geliştiriciliği' riskleri de barındırıyor: güvenlik açıkları, veri tutarsızlığı, bakım sorumluluğu ve IT governance eksikliği. Başarılı implementasyon, IT ekibiyle koordineli bir citizen developer programı gerektiriyor."
+      },
+      "en": {
+        "title": "Low-Code/No-Code Platforms Democratizing Citizen Development in Admin Affairs",
+        "summary": "Low-code platforms like Power Apps, Mendix, and OutSystems enable admin affairs teams to develop their own digital solutions, reducing IT dependency.",
+        "content": "Low-code/no-code platforms are democratizing digital transformation in administrative affairs functions. With Microsoft Power Apps, Google AppSheet, and similar tools, administrative affairs professionals with limited technical knowledge can develop digital solutions for their own business processes.\n\nExample applications include: mobile field audit apps, vendor performance tracking systems, vehicle usage request forms, employee satisfaction survey platforms, and service request management systems. These applications reduce the traditional software development timeline from months to weeks.\n\nHowever, 'citizen development' also carries risks: security vulnerabilities, data inconsistency, maintenance responsibility, and IT governance gaps. Successful implementation requires a citizen developer program coordinated with the IT team."
+      },
+      "id": "2026-04-18-2",
+      "date": "2026-04-18"
+    },
+    {
       "poolId": "transport-09",
       "category": "Employee Transportation",
       "tr": {
