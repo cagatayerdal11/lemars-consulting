@@ -13,6 +13,38 @@
         "summary": "The number of companies achieving ISO 41001 facility management certification grew 40% globally, proving FM's transformation from an operational function to a strategic management discipline.",
         "content": "ISO 41001:2018 defines the international framework for systematic facility management process management. The 40% increase in certified companies in 2026 indicates growing demand for FM quality standardization, particularly in multi-location corporate structures.\n\nDuring the certification process, companies must establish service catalogs, define SLAs, build performance measurement systems, and design continuous improvement cycles. This process directly elevates the maturity level of FM operations.\n\nWhile the number of ISO 41001 certified companies in Turkey remains limited, adoption is accelerating in local operations of multinational companies. Raising FM quality standards to international levels is particularly on the agenda for manufacturing facilities and large corporate offices."
       },
+      "id": "2026-05-25-1",
+      "date": "2026-05-25"
+    },
+    {
+      "poolId": "catering-02",
+      "category": "Corporate Catering & Food Safety",
+      "tr": {
+        "title": "Yapay Zeka ile Yemek İsrafı Azaltma: Pilot Projeler %30 Tasarruf Sağlıyor",
+        "summary": "Kurumsal yemekhanelerde AI destekli talep tahmini sistemleri, yemek israfını %30'a kadar azaltıyor. Bu teknoloji, hem maliyet hem de sürdürülebilirlik hedeflerine katkı sağlıyor.",
+        "content": "Kurumsal catering sektöründe yapay zeka destekli talep tahmini sistemleri hızla yaygınlaşıyor. Winnow, Leanpath ve Kitro gibi platformlar, yemekhanelerdeki üretim miktarını geçmiş veriler, takvim verileri ve hava durumu gibi değişkenlere göre optimize ediyor.\n\nPilot projelerden elde edilen sonuçlar etkileyici: yemek israfında ortalama %25-30 azalma, kişi başı yemek maliyetinde %8-12 düşüş ve karbon ayak izinde ölçülebilir iyileşme. Bu kazanımlar, teknoloji yatırımının 6-12 ay içinde geri dönüş sağladığını gösteriyor.\n\nTürkiye'deki büyük kurumsal yemek tedarikçileri de bu teknolojilere yatırım yapmaya başlıyor. Ancak başarılı implementasyon için doğru veri altyapısı, mutfak ekibinin dijital okuryazarlığı ve tedarikçi sözleşmelerinde teknoloji bileşeninin yer alması gerekiyor."
+      },
+      "en": {
+        "title": "AI-Powered Food Waste Reduction: Pilot Projects Achieving 30% Savings",
+        "summary": "AI-powered demand forecasting systems in corporate cafeterias are reducing food waste by up to 30%, contributing to both cost and sustainability targets.",
+        "content": "AI-powered demand forecasting systems are rapidly spreading in the corporate catering sector. Platforms like Winnow, Leanpath, and Kitro optimize production quantities in cafeterias based on historical data, calendar data, and variables like weather.\n\nResults from pilot projects are impressive: average 25-30% reduction in food waste, 8-12% decrease in per-person meal costs, and measurable improvement in carbon footprint. These gains show the technology investment pays back within 6-12 months.\n\nLarge corporate catering vendors in Turkey are also beginning to invest in these technologies. However, successful implementation requires proper data infrastructure, kitchen team digital literacy, and technology components in vendor contracts."
+      },
+      "id": "2026-05-25-2",
+      "date": "2026-05-25"
+    },
+    {
+      "poolId": "fm-01",
+      "category": "Facility Management",
+      "tr": {
+        "title": "ISO 41001 Sertifikasyonu Alan Şirket Sayısı 2026'da %40 Arttı",
+        "summary": "Uluslararası Tesis Yönetimi standardı ISO 41001 sertifikasyonu alan şirket sayısı küresel bazda %40 artış gösterdi. Bu trend, FM'in operasyonel bir fonksiyondan stratejik bir yönetim disiplinine dönüştüğünü kanıtlıyor.",
+        "content": "ISO 41001:2018 standardı, tesis yönetimi süreçlerinin sistematik yönetimi için uluslararası çerçeveyi tanımlıyor. 2026 yılında sertifika alan şirket sayısındaki %40'lık artış, özellikle çok lokasyonlu kurumsal yapılarda FM kalitesinin standardize edilmesi ihtiyacının arttığını gösteriyor.\n\nSertifikasyon sürecinde şirketler, hizmet katalogu oluşturma, SLA tanımlama, performans ölçüm sistemi kurma ve sürekli iyileştirme döngüsü tasarlama gibi yapısal adımları atmak zorunda kalıyor. Bu süreç, FM operasyonlarının olgunluk seviyesini doğrudan yükseltiyor.\n\nTürkiye'de henüz ISO 41001 sertifikasyonu alan şirket sayısı sınırlı olsa da, çok uluslu şirketlerin yerel operasyonlarında bu standardın benimsenmesi hızlanıyor. Özellikle üretim tesisleri ve büyük kurumsal ofislerde FM kalite standartlarının uluslararası düzeye çıkarılması gündemde."
+      },
+      "en": {
+        "title": "Companies Achieving ISO 41001 Certification Increased 40% in 2026",
+        "summary": "The number of companies achieving ISO 41001 facility management certification grew 40% globally, proving FM's transformation from an operational function to a strategic management discipline.",
+        "content": "ISO 41001:2018 defines the international framework for systematic facility management process management. The 40% increase in certified companies in 2026 indicates growing demand for FM quality standardization, particularly in multi-location corporate structures.\n\nDuring the certification process, companies must establish service catalogs, define SLAs, build performance measurement systems, and design continuous improvement cycles. This process directly elevates the maturity level of FM operations.\n\nWhile the number of ISO 41001 certified companies in Turkey remains limited, adoption is accelerating in local operations of multinational companies. Raising FM quality standards to international levels is particularly on the agenda for manufacturing facilities and large corporate offices."
+      },
       "id": "2026-05-24-1",
       "date": "2026-05-24"
     },
@@ -1438,54 +1470,6 @@
         "title": "AI-Powered FM Platforms: New Era in Work Order Management",
         "summary": "According to Gartner's latest report, by 2027, 60% of large enterprises will adopt AI-powered work order routing and prioritization systems in facility management.",
         "content": "Gartner's 2026 Facility Management Technology Trends report predicts that AI's role in facility operations will expand dramatically. According to the report, by 2027, 60% of large corporate enterprises will have transitioned to AI-powered automatic routing and prioritization systems for work order management.\n\nThese systems minimize human intervention in categorizing incoming maintenance requests, assigning appropriate technicians, predicting material requirements, and optimizing response times. Early adopters report an average 35% improvement in response time and 20% increase in first-time fix rates.\n\nFor companies in Turkey using ServiceNow and SAP-based FM solutions, this transformation means strengthening existing platforms with AI modules. However, data quality and process standardization remain critical prerequisites for AI success.\n\nAdministrative affairs managers should evaluate their current work order data quality, categorization consistency, and closure time metric reliability before making AI investments."
-      }
-    },
-    {
-      "id": "2026-04-10-1",
-      "date": "2026-04-10",
-      "category": "Corporate Travel Management",
-      "illustration": "plane",
-      "readingTime": {
-        "tr": "5 dk",
-        "en": "5 min"
-      },
-      "aiSummary": {
-        "tr": "NDC dönüşümü ile havayolu gelirinin %40'ından fazlası artık yeni dağıtım kanalları üzerinden gerçekleşiyor. Kurumsal seyahat yöneticileri fiyat şeffaflığı, politika uyumu ve raporlama tutarsızlıkları ile mücadele ediyor.",
-        "en": "With NDC transformation, over 40% of airline revenue now flows through new distribution channels. Corporate travel managers face challenges with price transparency, policy compliance, and reporting inconsistencies."
-      },
-      "tr": {
-        "title": "NDC Dönüşümü: Kurumsal Seyahat Yönetiminde Yeni Gerçeklik",
-        "summary": "Havayollarının NDC (New Distribution Capability) geçişi hızlanıyor; kurumsal seyahat yöneticileri fiyat karşılaştırma ve politika uyumu konusunda yeni zorluklerla karşılaşıyor.",
-        "content": "Havayolu sektöründe NDC (New Distribution Capability) dönüşümü 2026'da kritik bir eşiğe ulaştı. IATA verilerine göre, küresel havayolu gelirinin %40'ından fazlası artık NDC kanalları üzerinden gerçekleştiriliyor. Bu durum, kurumsal seyahat yöneticileri için hem fırsat hem de zorluk oluşturuyor.\n\nGeleneksel GDS (Global Distribution System) üzerinden yapılan rezervasyonlarda, tüm havayollarının fiyatları tek bir ekranda karşılaştırılabiliyordu. NDC ile birlikte, havayolları fiyatlandırmayı kişiselleştirme ve doğrudan kanal avantajı sunma imkanı kazanırken; TMC'ler (Travel Management Companies) farklı kanallardan gelen içerikleri bütünleştirmekte zorlanıyor.\n\nKurumsal seyahat programları için NDC'nin pratik etkileri şunlar: fiyat şeffaflığında azalma riski, seyahat politikası uyumluluğu kontrolünde zorluk, kullanılmayan bilet yönetiminde karmaşıklık ve raporlama tutarsızlıkları.\n\nŞirketlerin TMC'lerinden NDC hazırlık durumunu sorgulaması, seyahat politikalarını NDC gerçekliğine göre güncellemesi ve raporlama altyapısını çok kanallı içerik yönetimine uyumlu hale getirmesi gerekiyor."
-      },
-      "en": {
-        "title": "NDC Transformation: The New Reality in Corporate Travel Management",
-        "summary": "Airlines' NDC (New Distribution Capability) transition is accelerating; corporate travel managers face new challenges in price comparison and policy compliance.",
-        "content": "The NDC (New Distribution Capability) transformation in the airline industry reached a critical threshold in 2026. According to IATA data, over 40% of global airline revenue is now generated through NDC channels. This creates both opportunities and challenges for corporate travel managers.\n\nWith traditional GDS (Global Distribution System) bookings, all airline fares could be compared on a single screen. With NDC, airlines gain the ability to personalize pricing and offer direct channel advantages, while TMCs (Travel Management Companies) struggle to integrate content from different channels.\n\nThe practical implications of NDC for corporate travel programs include: risk of reduced price transparency, difficulty in travel policy compliance control, complexity in unused ticket management, and reporting inconsistencies.\n\nCompanies need to query their TMCs about NDC readiness, update travel policies to reflect NDC realities, and align their reporting infrastructure with multi-channel content management."
-      }
-    },
-    {
-      "id": "2026-04-10-2",
-      "date": "2026-04-10",
-      "category": "Vendor Management & Procurement",
-      "illustration": "shield",
-      "readingTime": {
-        "tr": "4 dk",
-        "en": "4 min"
-      },
-      "aiSummary": {
-        "tr": "PwC araştırmasına göre büyük şirketlerin %72'si FM tedarikçi değerlendirmesinde ESG kriterlerini zorunlu parametre olarak ekledi. AB CSRD yükümlülükleri bu dönüşümü hızlandırıyor.",
-        "en": "According to PwC, 72% of large companies now use ESG criteria as mandatory parameters in FM vendor evaluation. EU CSRD obligations are accelerating this transformation."
-      },
-      "tr": {
-        "title": "ESG Kriterleri Tedarikçi Seçim Süreçlerini Yeniden Şekillendiriyor",
-        "summary": "PwC araştırmasına göre, büyük şirketlerin %72'si FM ve destek hizmetleri tedarikçi değerlendirmesinde ESG kriterlerini zorunlu parametre olarak eklemiş durumda.",
-        "content": "PwC'nin 2026 Global Procurement Survey sonuçları, sürdürülebilirlik kriterlerinin tedarikçi seçim ve değerlendirme süreçlerini kökten dönüştürdüğünü ortaya koyuyor. Araştırmaya göre, büyük kurumsal şirketlerin %72'si artık tesis yönetimi ve destek hizmetleri tedarikçilerini değerlendirirken ESG (Environmental, Social, Governance) kriterlerini zorunlu parametre olarak kullanıyor.\n\nBu dönüşüm özellikle temizlik, catering, güvenlik ve peyzaj gibi emek-yoğun hizmet alanlarında belirginleşiyor. Çalışan hakları, adil ücret politikası, iş güvenliği standartları ve çevresel performans, fiyat ve kalite ile birlikte tedarikçi skor kartlarının ayrılmaz parçası haline geliyor.\n\nAB CSRD (Corporate Sustainability Reporting Directive) yükümlülükleri nedeniyle, şirketler tedarik zincirlerindeki sosyal ve çevresel performansı raporlamak zorunda. Bu durum, idari işler fonksiyonlarının tedarikçi yönetim süreçlerini ESG perspektifinden yeniden tasarlamasını gerektiriyor.\n\nTürkiye'de özellikle çok uluslu şirketlerin yerel operasyonlarında ESG bazlı tedarikçi değerlendirmesi hızla yaygınlaşıyor. Yerli tedarikçilerin bu gerekliliklere hazırlıksız olması, hem risk hem de farklılaşma fırsatı yaratıyor."
-      },
-      "en": {
-        "title": "ESG Criteria are Reshaping Vendor Selection Processes",
-        "summary": "According to PwC research, 72% of large companies have added ESG criteria as mandatory parameters in FM and support services vendor evaluation.",
-        "content": "PwC's 2026 Global Procurement Survey results reveal that sustainability criteria are fundamentally transforming vendor selection and evaluation processes. According to the research, 72% of large corporate enterprises now use ESG (Environmental, Social, Governance) criteria as mandatory parameters when evaluating facility management and support service vendors.\n\nThis transformation is particularly evident in labor-intensive service areas such as cleaning, catering, security, and landscaping. Employee rights, fair wage policies, occupational safety standards, and environmental performance are becoming integral parts of vendor scorecards alongside price and quality.\n\nDue to EU CSRD (Corporate Sustainability Reporting Directive) obligations, companies are required to report social and environmental performance across their supply chains. This requires administrative affairs functions to redesign their vendor management processes from an ESG perspective.\n\nIn Turkey, ESG-based vendor evaluation is rapidly expanding, particularly in local operations of multinational companies. Local vendors' unpreparedness for these requirements creates both risk and differentiation opportunity."
       }
     }
   ]
