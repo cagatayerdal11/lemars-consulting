@@ -13,6 +13,38 @@
         "summary": "The number of companies achieving ISO 41001 facility management certification grew 40% globally, proving FM's transformation from an operational function to a strategic management discipline.",
         "content": "ISO 41001:2018 defines the international framework for systematic facility management process management. The 40% increase in certified companies in 2026 indicates growing demand for FM quality standardization, particularly in multi-location corporate structures.\n\nDuring the certification process, companies must establish service catalogs, define SLAs, build performance measurement systems, and design continuous improvement cycles. This process directly elevates the maturity level of FM operations.\n\nWhile the number of ISO 41001 certified companies in Turkey remains limited, adoption is accelerating in local operations of multinational companies. Raising FM quality standards to international levels is particularly on the agenda for manufacturing facilities and large corporate offices."
       },
+      "id": "2026-05-26-1",
+      "date": "2026-05-26"
+    },
+    {
+      "poolId": "catering-02",
+      "category": "Corporate Catering & Food Safety",
+      "tr": {
+        "title": "Yapay Zeka ile Yemek İsrafı Azaltma: Pilot Projeler %30 Tasarruf Sağlıyor",
+        "summary": "Kurumsal yemekhanelerde AI destekli talep tahmini sistemleri, yemek israfını %30'a kadar azaltıyor. Bu teknoloji, hem maliyet hem de sürdürülebilirlik hedeflerine katkı sağlıyor.",
+        "content": "Kurumsal catering sektöründe yapay zeka destekli talep tahmini sistemleri hızla yaygınlaşıyor. Winnow, Leanpath ve Kitro gibi platformlar, yemekhanelerdeki üretim miktarını geçmiş veriler, takvim verileri ve hava durumu gibi değişkenlere göre optimize ediyor.\n\nPilot projelerden elde edilen sonuçlar etkileyici: yemek israfında ortalama %25-30 azalma, kişi başı yemek maliyetinde %8-12 düşüş ve karbon ayak izinde ölçülebilir iyileşme. Bu kazanımlar, teknoloji yatırımının 6-12 ay içinde geri dönüş sağladığını gösteriyor.\n\nTürkiye'deki büyük kurumsal yemek tedarikçileri de bu teknolojilere yatırım yapmaya başlıyor. Ancak başarılı implementasyon için doğru veri altyapısı, mutfak ekibinin dijital okuryazarlığı ve tedarikçi sözleşmelerinde teknoloji bileşeninin yer alması gerekiyor."
+      },
+      "en": {
+        "title": "AI-Powered Food Waste Reduction: Pilot Projects Achieving 30% Savings",
+        "summary": "AI-powered demand forecasting systems in corporate cafeterias are reducing food waste by up to 30%, contributing to both cost and sustainability targets.",
+        "content": "AI-powered demand forecasting systems are rapidly spreading in the corporate catering sector. Platforms like Winnow, Leanpath, and Kitro optimize production quantities in cafeterias based on historical data, calendar data, and variables like weather.\n\nResults from pilot projects are impressive: average 25-30% reduction in food waste, 8-12% decrease in per-person meal costs, and measurable improvement in carbon footprint. These gains show the technology investment pays back within 6-12 months.\n\nLarge corporate catering vendors in Turkey are also beginning to invest in these technologies. However, successful implementation requires proper data infrastructure, kitchen team digital literacy, and technology components in vendor contracts."
+      },
+      "id": "2026-05-26-2",
+      "date": "2026-05-26"
+    },
+    {
+      "poolId": "fm-01",
+      "category": "Facility Management",
+      "tr": {
+        "title": "ISO 41001 Sertifikasyonu Alan Şirket Sayısı 2026'da %40 Arttı",
+        "summary": "Uluslararası Tesis Yönetimi standardı ISO 41001 sertifikasyonu alan şirket sayısı küresel bazda %40 artış gösterdi. Bu trend, FM'in operasyonel bir fonksiyondan stratejik bir yönetim disiplinine dönüştüğünü kanıtlıyor.",
+        "content": "ISO 41001:2018 standardı, tesis yönetimi süreçlerinin sistematik yönetimi için uluslararası çerçeveyi tanımlıyor. 2026 yılında sertifika alan şirket sayısındaki %40'lık artış, özellikle çok lokasyonlu kurumsal yapılarda FM kalitesinin standardize edilmesi ihtiyacının arttığını gösteriyor.\n\nSertifikasyon sürecinde şirketler, hizmet katalogu oluşturma, SLA tanımlama, performans ölçüm sistemi kurma ve sürekli iyileştirme döngüsü tasarlama gibi yapısal adımları atmak zorunda kalıyor. Bu süreç, FM operasyonlarının olgunluk seviyesini doğrudan yükseltiyor.\n\nTürkiye'de henüz ISO 41001 sertifikasyonu alan şirket sayısı sınırlı olsa da, çok uluslu şirketlerin yerel operasyonlarında bu standardın benimsenmesi hızlanıyor. Özellikle üretim tesisleri ve büyük kurumsal ofislerde FM kalite standartlarının uluslararası düzeye çıkarılması gündemde."
+      },
+      "en": {
+        "title": "Companies Achieving ISO 41001 Certification Increased 40% in 2026",
+        "summary": "The number of companies achieving ISO 41001 facility management certification grew 40% globally, proving FM's transformation from an operational function to a strategic management discipline.",
+        "content": "ISO 41001:2018 defines the international framework for systematic facility management process management. The 40% increase in certified companies in 2026 indicates growing demand for FM quality standardization, particularly in multi-location corporate structures.\n\nDuring the certification process, companies must establish service catalogs, define SLAs, build performance measurement systems, and design continuous improvement cycles. This process directly elevates the maturity level of FM operations.\n\nWhile the number of ISO 41001 certified companies in Turkey remains limited, adoption is accelerating in local operations of multinational companies. Raising FM quality standards to international levels is particularly on the agenda for manufacturing facilities and large corporate offices."
+      },
       "id": "2026-05-25-1",
       "date": "2026-05-25"
     },
@@ -1422,54 +1454,6 @@
         "title": "EU New Food Safety Regulation: Digital Traceability Mandate for Corporate Cafeterias",
         "summary": "The European Commission's 2026 food safety update introduces mandatory digital temperature monitoring and automated record-keeping for corporate catering operations.",
         "content": "The European Commission is planning to add a new amendment to the Food Hygiene Regulation 852/2004. According to the draft regulation, digital temperature monitoring systems will become mandatory in corporate cafeterias and catering operations serving more than 50 people.\n\nThis regulation envisions traditional paper-based HACCP record-keeping systems being replaced by digital platforms. Real-time monitoring and automated recording of cold chain, hot holding, and cooking temperatures through IoT sensors is targeted.\n\nSimilar regulations are expected to emerge in Turkey as part of its EU alignment process. Ministry of Agriculture and Forestry officials confirm that pilot studies on digital food safety monitoring have begun.\n\nFor corporate food service vendors, this development increases technology investment and staff training requirements, while companies will need to consider digital maturity criteria in their catering vendor evaluations."
-      }
-    },
-    {
-      "id": "2026-04-11-1",
-      "date": "2026-04-11",
-      "category": "Employee Transportation",
-      "illustration": "truck",
-      "readingTime": {
-        "tr": "5 dk",
-        "en": "5 min"
-      },
-      "aiSummary": {
-        "tr": "Avrupa'daki büyük şirketlerin %45'i personel servis filolarını 2028'e kadar elektrikli araçlara dönüştürmeyi hedefliyor. TCO analizleri, elektrikli araçların 5 yılda dizel muadillerinden %20-30 daha ekonomik olduğunu gösteriyor.",
-        "en": "45% of major European companies aim to convert shuttle fleets to electric vehicles by 2028. TCO analyses show EVs are 20-30% more economical than diesel equivalents over 5 years."
-      },
-      "tr": {
-        "title": "Elektrikli Araç Dönüşümü Personel Servislerini Dönüştürüyor",
-        "summary": "Avrupa'daki büyük şirketlerin %45'i 2028'e kadar personel servis filolarını tamamen elektrikli araçlara dönüştürmeyi hedefliyor.",
-        "content": "Avrupa Ulaşım ve Çevre Federasyonu'nun (T&E) 2026 raporuna göre, büyük kurumsal işverenlerin %45'i personel servis filolarını 2028'e kadar tamamen elektrikli araçlara dönüştürme hedefi koymuş durumda. Bu dönüşüm, hem ESG taahhütlerinin yerine getirilmesi hem de uzun vadeli operasyonel maliyet avantajı sağlama amacıyla hız kazanıyor.\n\nTürkiye'de TOGG'un ticari araç segmentine girişi ve elektrikli minibüs/midibüs üreticilerinin artan kapasitesi, personel taşımacılığında elektrikli dönüşümü mümkün kılmaya başlıyor. Ancak şarj altyapısı yetersizliği ve başlangıç yatırım maliyeti, dönüşümün önündeki başlıca engeller olarak öne çıkıyor.\n\nElektrikli servis araçlarına geçiş planlayan şirketlerin dikkat etmesi gereken kritik faktörler: güzergah uzunluğuna uygun batarya kapasitesi, tesis şarj altyapısı planlaması, elektrik tedarik anlaşmaları ve sürücü eğitimi. Toplam sahip olma maliyeti (TCO) analizleri, elektrikli araçların 5 yıllık dönemde dizel muadillerinden %20-30 daha ekonomik olduğunu gösteriyor.\n\nİdari işler fonksiyonları, bu dönüşümü yalnızca araç değişimi olarak değil; güzergah optimizasyonu, şarj planlaması ve çalışan iletişimi boyutlarıyla bütünsel bir proje olarak ele almalıdır."
-      },
-      "en": {
-        "title": "Electric Vehicle Transition is Transforming Employee Shuttle Services",
-        "summary": "45% of major European companies aim to fully convert their employee shuttle fleets to electric vehicles by 2028.",
-        "content": "According to the 2026 report by the European Federation for Transport and Environment (T&E), 45% of major corporate employers have set targets to fully convert their employee shuttle fleets to electric vehicles by 2028. This transformation is accelerating both to fulfill ESG commitments and to secure long-term operational cost advantages.\n\nIn Turkey, TOGG's entry into the commercial vehicle segment and increasing capacity of electric minibus/midibus manufacturers are beginning to make electric transition in employee transportation feasible. However, inadequate charging infrastructure and initial investment costs remain the primary barriers.\n\nCritical factors for companies planning the transition to electric shuttle vehicles include: battery capacity suitable for route length, facility charging infrastructure planning, electricity supply agreements, and driver training. Total cost of ownership (TCO) analyses show electric vehicles are 20-30% more economical than diesel equivalents over a 5-year period.\n\nAdministrative affairs functions should approach this transition not merely as a vehicle change but as a holistic project encompassing route optimization, charging planning, and employee communication."
-      }
-    },
-    {
-      "id": "2026-04-11-2",
-      "date": "2026-04-11",
-      "category": "Digital Transformation in Admin Affairs",
-      "illustration": "chart",
-      "readingTime": {
-        "tr": "4 dk",
-        "en": "4 min"
-      },
-      "aiSummary": {
-        "tr": "Gartner 2027'ye kadar büyük şirketlerin %60'ının FM'de yapay zeka destekli iş emri yönetimine geçeceğini öngörüyor. Erken benimseyenler müdahale süresinde %35, ilk seferde çözüm oranında %20 iyileşme raporluyor.",
-        "en": "Gartner predicts 60% of large enterprises will adopt AI-powered work order management in FM by 2027. Early adopters report 35% improvement in response time and 20% increase in first-time fix rates."
-      },
-      "tr": {
-        "title": "Yapay Zeka Destekli FM Platformları: İş Emri Yönetiminde Yeni Dönem",
-        "summary": "Gartner'ın son raporuna göre, 2027'ye kadar büyük şirketlerin %60'ı tesis yönetiminde yapay zeka destekli iş emri yönlendirme ve önceliklendirme sistemlerine geçecek.",
-        "content": "Gartner'ın 2026 Tesis Yönetimi Teknoloji Trendleri raporu, yapay zekanın tesis operasyonlarındaki rolünün dramatik biçimde genişleyeceğini öngörüyor. Rapora göre, 2027'ye kadar büyük kurumsal şirketlerin %60'ı iş emri yönetiminde yapay zeka destekli otomatik yönlendirme ve önceliklendirme sistemlerine geçmiş olacak.\n\nBu sistemler, gelen bakım taleplerini kategorize etme, uygun teknisyeni atama, malzeme gereksinimini tahmin etme ve müdahale süresini optimize etme konularında insan müdahalesini minimize ediyor. Erken benimseyen şirketler, ortalama müdahale süresinde %35 iyileşme ve ilk seferde çözüm oranında %20 artış raporluyor.\n\nTürkiye'de ServiceNow ve SAP tabanlı FM çözümleri kullanan şirketler için bu dönüşüm, mevcut platformların AI modülleri ile güçlendirilmesi anlamına geliyor. Ancak veri kalitesi ve süreç standardizasyonu, AI başarısının ön koşulları olarak kritik önem taşıyor.\n\nİdari işler yöneticileri, AI yatırımı öncesinde mevcut iş emri verilerinin kalitesini, kategorizasyon tutarlılığını ve kapatma süresi metriklerinin güvenilirliğini değerlendirmelidir."
-      },
-      "en": {
-        "title": "AI-Powered FM Platforms: New Era in Work Order Management",
-        "summary": "According to Gartner's latest report, by 2027, 60% of large enterprises will adopt AI-powered work order routing and prioritization systems in facility management.",
-        "content": "Gartner's 2026 Facility Management Technology Trends report predicts that AI's role in facility operations will expand dramatically. According to the report, by 2027, 60% of large corporate enterprises will have transitioned to AI-powered automatic routing and prioritization systems for work order management.\n\nThese systems minimize human intervention in categorizing incoming maintenance requests, assigning appropriate technicians, predicting material requirements, and optimizing response times. Early adopters report an average 35% improvement in response time and 20% increase in first-time fix rates.\n\nFor companies in Turkey using ServiceNow and SAP-based FM solutions, this transformation means strengthening existing platforms with AI modules. However, data quality and process standardization remain critical prerequisites for AI success.\n\nAdministrative affairs managers should evaluate their current work order data quality, categorization consistency, and closure time metric reliability before making AI investments."
       }
     }
   ]
