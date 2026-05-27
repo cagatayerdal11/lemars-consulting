@@ -13,6 +13,38 @@
         "summary": "The number of companies achieving ISO 41001 facility management certification grew 40% globally, proving FM's transformation from an operational function to a strategic management discipline.",
         "content": "ISO 41001:2018 defines the international framework for systematic facility management process management. The 40% increase in certified companies in 2026 indicates growing demand for FM quality standardization, particularly in multi-location corporate structures.\n\nDuring the certification process, companies must establish service catalogs, define SLAs, build performance measurement systems, and design continuous improvement cycles. This process directly elevates the maturity level of FM operations.\n\nWhile the number of ISO 41001 certified companies in Turkey remains limited, adoption is accelerating in local operations of multinational companies. Raising FM quality standards to international levels is particularly on the agenda for manufacturing facilities and large corporate offices."
       },
+      "id": "2026-05-27-1",
+      "date": "2026-05-27"
+    },
+    {
+      "poolId": "catering-02",
+      "category": "Corporate Catering & Food Safety",
+      "tr": {
+        "title": "Yapay Zeka ile Yemek İsrafı Azaltma: Pilot Projeler %30 Tasarruf Sağlıyor",
+        "summary": "Kurumsal yemekhanelerde AI destekli talep tahmini sistemleri, yemek israfını %30'a kadar azaltıyor. Bu teknoloji, hem maliyet hem de sürdürülebilirlik hedeflerine katkı sağlıyor.",
+        "content": "Kurumsal catering sektöründe yapay zeka destekli talep tahmini sistemleri hızla yaygınlaşıyor. Winnow, Leanpath ve Kitro gibi platformlar, yemekhanelerdeki üretim miktarını geçmiş veriler, takvim verileri ve hava durumu gibi değişkenlere göre optimize ediyor.\n\nPilot projelerden elde edilen sonuçlar etkileyici: yemek israfında ortalama %25-30 azalma, kişi başı yemek maliyetinde %8-12 düşüş ve karbon ayak izinde ölçülebilir iyileşme. Bu kazanımlar, teknoloji yatırımının 6-12 ay içinde geri dönüş sağladığını gösteriyor.\n\nTürkiye'deki büyük kurumsal yemek tedarikçileri de bu teknolojilere yatırım yapmaya başlıyor. Ancak başarılı implementasyon için doğru veri altyapısı, mutfak ekibinin dijital okuryazarlığı ve tedarikçi sözleşmelerinde teknoloji bileşeninin yer alması gerekiyor."
+      },
+      "en": {
+        "title": "AI-Powered Food Waste Reduction: Pilot Projects Achieving 30% Savings",
+        "summary": "AI-powered demand forecasting systems in corporate cafeterias are reducing food waste by up to 30%, contributing to both cost and sustainability targets.",
+        "content": "AI-powered demand forecasting systems are rapidly spreading in the corporate catering sector. Platforms like Winnow, Leanpath, and Kitro optimize production quantities in cafeterias based on historical data, calendar data, and variables like weather.\n\nResults from pilot projects are impressive: average 25-30% reduction in food waste, 8-12% decrease in per-person meal costs, and measurable improvement in carbon footprint. These gains show the technology investment pays back within 6-12 months.\n\nLarge corporate catering vendors in Turkey are also beginning to invest in these technologies. However, successful implementation requires proper data infrastructure, kitchen team digital literacy, and technology components in vendor contracts."
+      },
+      "id": "2026-05-27-2",
+      "date": "2026-05-27"
+    },
+    {
+      "poolId": "fm-01",
+      "category": "Facility Management",
+      "tr": {
+        "title": "ISO 41001 Sertifikasyonu Alan Şirket Sayısı 2026'da %40 Arttı",
+        "summary": "Uluslararası Tesis Yönetimi standardı ISO 41001 sertifikasyonu alan şirket sayısı küresel bazda %40 artış gösterdi. Bu trend, FM'in operasyonel bir fonksiyondan stratejik bir yönetim disiplinine dönüştüğünü kanıtlıyor.",
+        "content": "ISO 41001:2018 standardı, tesis yönetimi süreçlerinin sistematik yönetimi için uluslararası çerçeveyi tanımlıyor. 2026 yılında sertifika alan şirket sayısındaki %40'lık artış, özellikle çok lokasyonlu kurumsal yapılarda FM kalitesinin standardize edilmesi ihtiyacının arttığını gösteriyor.\n\nSertifikasyon sürecinde şirketler, hizmet katalogu oluşturma, SLA tanımlama, performans ölçüm sistemi kurma ve sürekli iyileştirme döngüsü tasarlama gibi yapısal adımları atmak zorunda kalıyor. Bu süreç, FM operasyonlarının olgunluk seviyesini doğrudan yükseltiyor.\n\nTürkiye'de henüz ISO 41001 sertifikasyonu alan şirket sayısı sınırlı olsa da, çok uluslu şirketlerin yerel operasyonlarında bu standardın benimsenmesi hızlanıyor. Özellikle üretim tesisleri ve büyük kurumsal ofislerde FM kalite standartlarının uluslararası düzeye çıkarılması gündemde."
+      },
+      "en": {
+        "title": "Companies Achieving ISO 41001 Certification Increased 40% in 2026",
+        "summary": "The number of companies achieving ISO 41001 facility management certification grew 40% globally, proving FM's transformation from an operational function to a strategic management discipline.",
+        "content": "ISO 41001:2018 defines the international framework for systematic facility management process management. The 40% increase in certified companies in 2026 indicates growing demand for FM quality standardization, particularly in multi-location corporate structures.\n\nDuring the certification process, companies must establish service catalogs, define SLAs, build performance measurement systems, and design continuous improvement cycles. This process directly elevates the maturity level of FM operations.\n\nWhile the number of ISO 41001 certified companies in Turkey remains limited, adoption is accelerating in local operations of multinational companies. Raising FM quality standards to international levels is particularly on the agenda for manufacturing facilities and large corporate offices."
+      },
       "id": "2026-05-26-1",
       "date": "2026-05-26"
     },
@@ -1407,54 +1439,6 @@
       },
       "id": "2026-04-13-2",
       "date": "2026-04-13"
-    },
-    {
-      "id": "2026-04-12-1",
-      "date": "2026-04-12",
-      "category": "Facility Management",
-      "illustration": "building",
-      "readingTime": {
-        "tr": "4 dk",
-        "en": "4 min"
-      },
-      "aiSummary": {
-        "tr": "IFMA'nın 2026 raporuna göre FM profesyonellerinin %78'i rollerinin çalışan deneyimi yönetimine dönüştüğünü belirtiyor. Hibrit çalışma ile ofis doluluk oranları %55-65'te seyrederken, FM ekipleri alan optimizasyonu ve deneyim tasarımına odaklanıyor.",
-        "en": "IFMA's 2026 report shows 78% of FM professionals say their role has shifted to employee experience management. With hybrid work keeping office occupancy at 55-65%, FM teams are focusing on space optimization and experience design."
-      },
-      "tr": {
-        "title": "IFMA 2026 Raporu: Hibrit Çalışma Döneminde Tesis Yönetiminin Yeni Rolü",
-        "summary": "IFMA'nın 2026 yıllık raporuna göre, tesis yönetimi profesyonellerinin %78'i rollerinin 'bina yönetimi'nden 'çalışan deneyimi orkestratörlüğü'ne dönüştüğünü belirtiyor.",
-        "content": "IFMA'nın (International Facility Management Association) 2026 yılı küresel tesis yönetimi raporunda çarpıcı bir dönüşüm ortaya konuyor. Araştırmaya katılan FM profesyonellerinin %78'i, görev tanımlarının geleneksel bina bakımı ve operasyondan, çalışan deneyimi tasarımı ve yönetimine doğru köklü bir evrim geçirdiğini ifade ediyor.\n\nRapora göre, hibrit çalışma modelinin kalıcı hale gelmesiyle birlikte ofis doluluk oranları küresel ortalamada %55-65 aralığında seyretmeye devam ediyor. Bu durum, FM ekiplerini alan optimizasyonu, enerji verimliliği ve 'ofise gelme motivasyonu' yaratma konularında yeni stratejiler geliştirmeye zorluyor.\n\nÖzellikle çok lokasyonlu şirketlerde, standart FM hizmetlerinin ötesinde 'hospitality-grade' deneyim sunma beklentisi artıyor. Kafeterya kalitesi, toplantı odası teknolojisi, iç hava kalitesi izleme ve kişiselleştirilmiş çalışma alanları, FM ekiplerinin yeni öncelik listesinin başında yer alıyor.\n\nTürkiye özelinde, organize sanayi bölgelerindeki üretim tesislerinde hibrit çalışma etkisi sınırlı kalsa da, İstanbul, Ankara ve İzmir'deki kurumsal ofislerde benzer trendler gözlemleniyor."
-      },
-      "en": {
-        "title": "IFMA 2026 Report: The New Role of Facility Management in the Hybrid Work Era",
-        "summary": "According to IFMA's 2026 annual report, 78% of FM professionals say their role has transformed from 'building management' to 'employee experience orchestration.'",
-        "content": "IFMA's (International Facility Management Association) 2026 global facility management report reveals a striking transformation. 78% of participating FM professionals indicate their job descriptions have undergone a fundamental evolution from traditional building maintenance and operations toward employee experience design and management.\n\nAccording to the report, with hybrid work becoming permanent, office occupancy rates continue at a global average of 55-65%. This forces FM teams to develop new strategies for space optimization, energy efficiency, and creating 'motivation to come to the office.'\n\nParticularly in multi-location companies, expectations for 'hospitality-grade' experiences beyond standard FM services are growing. Cafeteria quality, meeting room technology, indoor air quality monitoring, and personalized workspaces top FM teams' new priority lists.\n\nIn Turkey specifically, while the hybrid work impact remains limited in organized industrial zone production facilities, similar trends are observed in corporate offices in Istanbul, Ankara, and Izmir."
-      }
-    },
-    {
-      "id": "2026-04-12-2",
-      "date": "2026-04-12",
-      "category": "Corporate Catering & Food Safety",
-      "illustration": "utensils",
-      "readingTime": {
-        "tr": "4 dk",
-        "en": "4 min"
-      },
-      "aiSummary": {
-        "tr": "AB, kurumsal yemekhanelerde dijital sıcaklık izleme ve otomatik kayıt tutma zorunluluğu getiriyor. Kağıt bazlı HACCP sistemlerinin yerini IoT sensörleri alacak, Türkiye'de de benzer düzenlemeler bekleniyor.",
-        "en": "The EU is introducing mandatory digital temperature monitoring and automated record-keeping for corporate cafeterias. IoT sensors will replace paper-based HACCP systems, with similar regulations expected in Turkey."
-      },
-      "tr": {
-        "title": "AB Yeni Gıda Güvenliği Yönetmeliği: Kurumsal Yemekhanelere Dijital İzlenebilirlik Zorunluluğu",
-        "summary": "Avrupa Komisyonu'nun 2026 gıda güvenliği güncellemesi, kurumsal catering operasyonlarında dijital sıcaklık izleme ve otomatik kayıt tutma zorunluluğu getiriyor.",
-        "content": "Avrupa Komisyonu, 852/2004 sayılı Gıda Hijyen Tüzüğü'ne yeni bir düzenleme eklemeyi planlıyor. Taslak düzenlemeye göre, 50'den fazla kişiye hizmet veren kurumsal yemekhaneler ve catering operasyonlarında dijital sıcaklık izleme sistemleri zorunlu hale gelecek.\n\nBu düzenleme, geleneksel kağıt bazlı HACCP kayıt tutma sistemlerinin yerini dijital platformlara bırakmasını öngörüyor. IoT sensörleri aracılığıyla soğuk zincir, sıcak tutma ve pişirme sıcaklıklarının gerçek zamanlı izlenmesi ve otomatik kayıt altına alınması hedefleniyor.\n\nTürkiye'nin AB uyum süreci kapsamında benzer düzenlemelerin gündeme gelmesi bekleniyor. Tarım ve Orman Bakanlığı yetkilileri, dijital gıda güvenliği izleme konusunda pilot çalışmaların başladığını doğruluyor.\n\nKurumsal yemek hizmeti tedarikçileri için bu gelişme, teknoloji yatırımı ve personel eğitimi gereksinimlerini artırırken; şirketlerin catering tedarikçi değerlendirmesinde dijital olgunluk kriterini dikkate alması gerekecek."
-      },
-      "en": {
-        "title": "EU New Food Safety Regulation: Digital Traceability Mandate for Corporate Cafeterias",
-        "summary": "The European Commission's 2026 food safety update introduces mandatory digital temperature monitoring and automated record-keeping for corporate catering operations.",
-        "content": "The European Commission is planning to add a new amendment to the Food Hygiene Regulation 852/2004. According to the draft regulation, digital temperature monitoring systems will become mandatory in corporate cafeterias and catering operations serving more than 50 people.\n\nThis regulation envisions traditional paper-based HACCP record-keeping systems being replaced by digital platforms. Real-time monitoring and automated recording of cold chain, hot holding, and cooking temperatures through IoT sensors is targeted.\n\nSimilar regulations are expected to emerge in Turkey as part of its EU alignment process. Ministry of Agriculture and Forestry officials confirm that pilot studies on digital food safety monitoring have begun.\n\nFor corporate food service vendors, this development increases technology investment and staff training requirements, while companies will need to consider digital maturity criteria in their catering vendor evaluations."
-      }
     }
   ]
 }
