@@ -1,7 +1,9 @@
 import type { Metadata } from 'next'
 import { Inter } from 'next/font/google'
+import { GoogleAnalytics } from '@next/third-parties/google'
 import '../globals.css'
 import { getDictionary, locales } from '@/lib/dictionary'
+import { GA_MEASUREMENT_ID } from '@/lib/analytics'
 import { Navbar } from '@/components/Navbar'
 import { Footer } from '@/components/Footer'
 import { ThemeProvider } from '@/components/ThemeProvider'
@@ -49,6 +51,9 @@ export default async function LocaleLayout({
           <Footer dict={dict} locale={locale} />
         </ThemeProvider>
       </body>
+      {process.env.NODE_ENV === 'production' && (
+        <GoogleAnalytics gaId={GA_MEASUREMENT_ID} />
+      )}
     </html>
   )
 }
