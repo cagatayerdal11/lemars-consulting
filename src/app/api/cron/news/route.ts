@@ -1,5 +1,6 @@
 import { NextResponse } from 'next/server'
 import newsPool from '../../../../../scripts/news-pool.json'
+import { enrichArticle } from '../../../../../scripts/enrich-article.mjs'
 
 export async function GET(request: Request) {
   // Verify Vercel cron secret
@@ -69,8 +70,12 @@ export async function GET(request: Request) {
       })
     )
 
-    // 4. Merge and keep last 90 articles
-    const merged = [...todayArticles, ...currentNews.articles].slice(0, 90)
+    // 4. Merge and keep last 90 articles. enrichArticle fills the fields the
+    // news pages require but the pool doesn't carry; it also backfills any
+    // older article that predates those fields.
+    const merged = [...todayArticles, ...currentNews.articles]
+      .slice(0, 90)
+      .map(enrichArticle)
     const updatedContent = JSON.stringify({ articles: merged }, null, 2)
 
     // 5. Commit updated news.json to GitHub
